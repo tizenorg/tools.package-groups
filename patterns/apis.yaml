@@ -1,0 +1,33 @@
+Description: Tizen API
+Name: tizen-api
+Packages:
+- capi-appfw-app-manager
+- capi-appfw-application
+- capi-base-common
+- capi-content-media-content
+- capi-location-geocoder
+- capi-location-manager
+- capi-media-audio-io
+- capi-media-camera
+- capi-media-image-util
+- capi-media-player
+- capi-media-radio
+- capi-media-recorder
+- capi-media-sound-manager
+- capi-media-tone-player
+- capi-messaging-email
+- capi-network-connection
+- capi-social-calendar
+- capi-social-call-log
+- capi-social-contacts
+- capi-system-device
+- capi-system-haptic
+- capi-system-info
+- capi-system-power
+- capi-system-runtime-info
+- capi-system-sensor
+- capi-telephony-call
+- capi-telephony-network-info
+- capi-telephony-sim
+- capi-ui-efl-util
+Summary: Tizen APIs

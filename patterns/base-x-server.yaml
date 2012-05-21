@@ -1,0 +1,13 @@
+Description: Base X Server
+Name: x-server
+Packages:
+- xkeyboard-config
+- xorg-x11-server
+- xorg-x11-xkb-utils
+- xorg-x11-xserver-utils
+- xterm
+Summary: Base X Server
+
+# remove xorg-app-xinit
+# remove xorg-app-xinput
+# remove- xorg-utils

@@ -1,0 +1,59 @@
+Description: Base System
+Name: base
+Packages:
+- alsa-utils
+- audio-session-manager
+- bash
+- binutils
+- bluetooth-frwk
+- bluetooth-frwk-agent
+- bluez
+- bzip2
+- ca-certificates
+- cert-svc
+- connman
+- coreutils
+- cpio
+- dlogutil
+- drm-service
+- e2fsprogs
+- filesystem
+- gawk
+- grep
+- gzip
+- insserv
+- libsqlfs
+- libss-client
+- login
+- lsb
+- mkdevnodes
+- module-init-tools
+- mtdev
+- net-tools
+- ofono
+- passwd
+- prelink
+- procps
+- psmisc
+- readline
+- rfkill
+- rpm
+- sed
+- sensor-framework
+- setup
+- sonet
+- ss-server
+- sysvinit
+- sysvinit-utils
+- tar
+- tizen-release
+- tizen-repos
+- tzdata-slp
+- udev
+- usbutils
+- util-linux-ng
+Summary: Base System
+
+# remove less
+# remove- bluez-gstreamer
+# remove- mingetty

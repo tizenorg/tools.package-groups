@@ -1,0 +1,5 @@
+* Sat May  5 02:37:51 UTC 2012 - tracy.graydon@intel.com
+- Merge IVI and base patterns with tizen-c210 pattern
+- Moved loose scripts to scripts dir. 
+- Converted tizen-c210 to yaml from xml (xml ver saved in data folder)
+
