@@ -6,6 +6,7 @@ License:	GPLv2
 Group:		System/Base
 URL:		http://www.tizen.org
 Source:		%{name}-%{version}.tar.bz2
+Source1001: packaging/package-groups.manifest 
 BuildRequires:  libxslt
 BuildRequires: python-yaml
 BuildRequires: python-lxml
@@ -18,6 +19,7 @@ Tizen Package Groups
 %setup -q
 
 %build
+cp %{SOURCE1001} .
 %ifarch %{arm}
 make ARCH=arm
 %else
@@ -29,5 +31,6 @@ make ARCH=i586
 
 
 %files
+%manifest package-groups.manifest
 /usr/share/package-groups/*xml
 
