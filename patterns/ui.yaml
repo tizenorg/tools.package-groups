@@ -9,6 +9,7 @@ Packages:
 - boot-animation
 - org.tizen.browser
 - org.tizen.bt-syspopup
+- org.tizen.calculator
 - org.tizen.call
 - org.tizen.message
 - call-setting
@@ -24,7 +25,6 @@ Packages:
 - ecore-tools
 - org.tizen.efl-calendar
 - efl-theme-grey-hd
-- efl-theme-tizen-hd
 - elm-misc
 - emotion
 - emotion-gstreamer
@@ -65,8 +65,6 @@ Packages:
 - msg-service-tools
 - org.tizen.music-player
 - libaccounts-svc
-- neard
-- neard-test
 - nfc-plugin-emul
 - obexd
 - org.tizen.download-provider
@@ -123,3 +121,7 @@ Summary: Tizen UI
 # remove vim-enhanced
 # remove- calculator
 # remove- efl-theme-tizen-black-hd
+# remove- efl-theme-tizen-hd
+# remove- neard
+# remove- neard-test
+

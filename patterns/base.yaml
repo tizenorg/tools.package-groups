@@ -30,7 +30,6 @@ Packages:
 - module-init-tools
 - mtdev
 - net-tools
-- ofono
 - passwd
 - prelink
 - procps
@@ -41,13 +40,12 @@ Packages:
 - sed
 - sensor-framework
 - setup
-- sonet
+- net-config
 - ss-server
 - sysvinit
 - sysvinit-utils
 - tar
 - tizen-release
-- tizen-repos
 - tzdata-slp
 - udev
 - usbutils
@@ -57,3 +55,5 @@ Summary: Base System
 # remove less
 # remove- bluez-gstreamer
 # remove- mingetty
+# remove- ofono
+# remove- tizen-repos
