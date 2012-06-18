@@ -228,7 +228,7 @@
         <rpm:entry name="libdownload-agent"/>
         <rpm:entry name="libdri2"/>
         <rpm:entry name="libdrm-slp1"/>
-        <rpm:entry name="libdrm2"/>
+        <rpm:entry name="libdrm"/>
         <rpm:entry name="libexif"/>
         <rpm:entry name="libfontenc"/>
         <rpm:entry name="libfuse"/>

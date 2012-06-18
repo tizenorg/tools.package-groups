@@ -223,7 +223,7 @@ Packages:
     - libdownload-agent
     - libdri2
     - libdrm-slp1
-    - libdrm2
+    - libdrm
     - libexif
     - libfontenc
     - libfuse
