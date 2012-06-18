@@ -59,7 +59,6 @@
         <rpm:entry name="busybox-symlinks-lrzsz"/>
         <rpm:entry name="busybox-symlinks-lzma"/>
         <rpm:entry name="busybox-symlinks-lzop"/>
-        <rpm:entry name="busybox-symlinks-module-init-tools"/>
         <rpm:entry name="busybox-symlinks-mtd-utils"/>
         <rpm:entry name="busybox-symlinks-net-tools"/>
         <rpm:entry name="busybox-symlinks-openbsd-inetd"/>

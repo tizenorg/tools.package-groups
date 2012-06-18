@@ -54,7 +54,6 @@ Packages:
     - busybox-symlinks-lrzsz
     - busybox-symlinks-lzma
     - busybox-symlinks-lzop
-    - busybox-symlinks-module-init-tools
     - busybox-symlinks-mtd-utils
     - busybox-symlinks-net-tools
     - busybox-symlinks-openbsd-inetd
