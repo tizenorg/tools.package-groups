@@ -1,3 +1,6 @@
+* Tue Jun 19 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Renaming libkms1 to libkms
+
 * Mon Jun 18 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
 - removing busybox-symlinks-module-init-tool from package list
 - renaming libdrm2 to libdrm

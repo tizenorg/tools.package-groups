@@ -241,7 +241,7 @@
         <rpm:entry name="libiri"/>
         <rpm:entry name="libjpeg"/>
         <rpm:entry name="libjpeg-turbo"/>
-        <rpm:entry name="libkms1"/>
+        <rpm:entry name="libkms"/>
         <rpm:entry name="libleveldb"/>
         <rpm:entry name="libmedia-service"/>
         <rpm:entry name="libmedia-thumbnail"/>

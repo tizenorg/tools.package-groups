@@ -236,7 +236,7 @@ Packages:
     - libiri
     - libjpeg
     - libjpeg-turbo
-    - libkms1
+    - libkms
     - libleveldb
     - libmedia-service
     - libmedia-thumbnail
