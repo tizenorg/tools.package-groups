@@ -1,5 +1,6 @@
 * Tue Jun 19 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
 - Renaming libkms1 to libkms
+- Renaming wpasupplicant to wpa_supplicant
 
 * Mon Jun 18 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
 - removing busybox-symlinks-module-init-tool from package list

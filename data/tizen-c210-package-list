@@ -562,7 +562,7 @@ vmodemd-emul
 webkit-engine
 which
 wifi-efl-ug
-wpasupplicant
+wpa_supplicant
 wrt
 wrt-commons
 wrt-installer

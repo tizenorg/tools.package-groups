@@ -479,7 +479,7 @@ Packages:
     - which
     - wifi-efl-ug
     - wlandrv-plugin-bcm43xx
-    - wpasupplicant
+    - wpa_supplicant
     - wrt
     - wrt-commons
     - wrt-installer

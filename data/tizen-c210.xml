@@ -486,7 +486,7 @@
         <rpm:entry name="which"/>
         <rpm:entry name="wifi-efl-ug"/>
         <rpm:entry name="wlandrv-plugin-bcm43xx"/>
-        <rpm:entry name="wpasupplicant"/>
+        <rpm:entry name="wpa_supplicant"/>
         <rpm:entry name="wrt"/>
         <rpm:entry name="wrt-commons"/>
         <rpm:entry name="wrt-installer"/>
