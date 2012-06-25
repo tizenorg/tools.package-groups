@@ -15,9 +15,9 @@ Packages:
 - syslinux
 - syslinux-extlinux
 - system-plugin-ia-generic
-- xorg-x11-drv-evdev
+- xorg-input-evdev
 - xorg-drv-mtev
-- xorg-x11-drv-evdev-multitouch
+- xorg-input-evdev-multitouch
 - xorg-x11-drv-fbdev
 - xorg-x11-drv-input-gesture
 - xorg-x11-drv-intel

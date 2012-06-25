@@ -1,3 +1,6 @@
+* Mon Jun 25 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Renaming packages evdev, evdev-multitouch, recordproto, renderproto and xbitmaps
+
 * Tue Jun 19 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
 - Renaming libkms1 to libkms
 - Renaming wpasupplicant to wpa_supplicant

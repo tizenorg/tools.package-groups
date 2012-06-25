@@ -581,8 +581,8 @@ xmlsec1
 xmlsec1-openssl
 xorg-server
 xorg-x11-apps
-xorg-x11-drv-evdev
-xorg-x11-drv-evdev-multitouch
+xorg-input-evdev
+xorg-input-evdev-multitouch
 xorg-x11-drv-input-gesture
 xorg-x11-filesystem
 xorg-x11-proto-bigreqsproto
@@ -596,8 +596,8 @@ xorg-x11-proto-fontsproto
 xorg-x11-proto-inputproto
 xorg-x11-proto-kbproto
 xorg-x11-proto-randrproto
-xorg-x11-proto-recordproto
-xorg-x11-proto-renderproto
+xorg-recordproto
+xorg-renderproto
 xorg-x11-proto-resourceproto
 xorg-x11-proto-scrnsaverproto
 xorg-x11-proto-trapproto
@@ -617,7 +617,7 @@ xorg-x11-util-macros
 xorg-x11-utils
 xorg-x11-utils-xinput
 xorg-x11-utils-xrestop
-xorg-x11-xbitmaps
+xorg-xbitmaps
 xorg-x11-xfonts-utils
 xorg-x11-xinit
 xorg-x11-xkb-utils

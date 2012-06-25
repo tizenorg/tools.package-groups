@@ -502,8 +502,8 @@
         <rpm:entry name="xmlsec1-openssl"/>
         <rpm:entry name="xorg-server"/>
         <rpm:entry name="xorg-x11-apps"/>
-        <rpm:entry name="xorg-x11-drv-evdev"/>
-        <rpm:entry name="xorg-x11-drv-evdev-multitouch"/>
+        <rpm:entry name="xorg-input-evdev"/>
+        <rpm:entry name="xorg-input-evdev-multitouch"/>
         <rpm:entry name="xorg-x11-drv-input-gesture"/>
         <rpm:entry name="xorg-x11-filesystem"/>
         <rpm:entry name="xorg-x11-server-misc-emulfb"/>
@@ -511,7 +511,7 @@
         <rpm:entry name="xorg-x11-utils"/>
         <rpm:entry name="xorg-x11-utils-xinput"/>
         <rpm:entry name="xorg-x11-utils-xrestop"/>
-        <rpm:entry name="xorg-x11-xbitmaps"/>
+        <rpm:entry name="xorg-xbitmaps"/>
         <rpm:entry name="xorg-x11-xfonts-utils"/>
         <rpm:entry name="xorg-x11-xinit"/>
         <rpm:entry name="xorg-x11-xkb-utils"/>
