@@ -371,7 +371,7 @@ Packages:
     - opencore-amr
     - opengl-es
     - opengl-es-virtual-drv
-    - openssh-client
+    - openssh-clients
     - openssh-server
     - org.tizen.app-selector
     - org.tizen.browser

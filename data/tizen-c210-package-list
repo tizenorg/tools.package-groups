@@ -417,7 +417,7 @@ opencore-amr
 opengl-es
 opengl-es-virtual-drv
 openssh
-openssh-client
+openssh-clients
 openssh-server
 org.tizen.app-selector
 org.tizen.browser

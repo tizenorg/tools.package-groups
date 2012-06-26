@@ -1,3 +1,6 @@
+* Tue Jun 26 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Renaming openssh-client to openssh-clients
+
 * Mon Jun 25 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
 - Renaming packages evdev, evdev-multitouch, recordproto, renderproto and xbitmaps
 

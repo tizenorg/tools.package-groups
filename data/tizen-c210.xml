@@ -376,7 +376,7 @@
         <rpm:entry name="opencore-amr"/>
         <rpm:entry name="opengl-es"/>
         <rpm:entry name="opengl-es-virtual-drv"/>
-        <rpm:entry name="openssh-client"/>
+        <rpm:entry name="openssh-clients"/>
         <rpm:entry name="openssh-server"/>
         <rpm:entry name="org.tizen.app-selector"/>
         <rpm:entry name="org.tizen.browser"/>
