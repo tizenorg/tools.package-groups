@@ -729,9 +729,9 @@ system-popup,,x,,,,,,,,
 system-server,,x,,,,,,,,
 systemd,,x,,,,,,,,
 systemd-units-slp-c210,x,,,,,,,,,
-sysv-rc,,x,,,,,,,,
-sysvinit,,x,,,,,,,,
-sysvinit-utils,,x,,,,,,,,
+systemd-sysv,,x,,,,,,,,
+tizen-mobile-session,,x,,,,,,,,
+xorg-launch-helper,,x,,,,,,,,
 taskmanager,,,,,,,,,,x
 taskmgr-card,,,,,,,,,,x
 tcpdump,,,,x,,,,,,

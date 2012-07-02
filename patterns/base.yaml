@@ -42,8 +42,6 @@ Packages:
 - setup
 - net-config
 - ss-server
-- sysvinit
-- sysvinit-utils
 - tar
 - tizen-release
 - tzdata-slp

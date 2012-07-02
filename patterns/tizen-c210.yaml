@@ -449,9 +449,11 @@ Packages:
     - syspopup-caller
     - system-plugin-slp
     - system-server
-    - sysv-rc
-    - sysvinit
-    - sysvinit-utils
+    - systemd
+    - systemd-units-slp-c210
+    - systemd-sysv
+    - tizen-mobile-session
+    - xorg-launch-helper
     - tel-plugin-database
     - tel-plugin-dbus_tapi
     - tel-plugin-indicator

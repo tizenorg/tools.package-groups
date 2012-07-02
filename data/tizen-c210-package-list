@@ -529,9 +529,9 @@ syspopup-caller
 system-plugin-slp
 system-popup
 system-server
-sysv-rc
-sysvinit
-sysvinit-utils
+systemd-sysv
+tizen-mobile-session
+xorg-launch-helper
 tel-plugin-atmodem
 tel-plugin-database
 tel-plugin-dbus_tapi

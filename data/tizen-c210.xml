@@ -454,9 +454,10 @@
         <rpm:entry name="syspopup-caller"/>
         <rpm:entry name="system-plugin-slp"/>
         <rpm:entry name="system-server"/>
-        <rpm:entry name="sysv-rc"/>
-        <rpm:entry name="sysvinit"/>
-        <rpm:entry name="sysvinit-utils"/>
+        <rpm:entry name="systemd"/>
+        <rpm:entry name="systemd-sysv"/>
+        <rpm:entry name="tizen-mobile-session"/>
+        <rpm:entry name="xorg-launch-helper"/>
         <rpm:entry name="tel-plugin-database"/>
         <rpm:entry name="tel-plugin-dbus_tapi"/>
         <rpm:entry name="tel-plugin-indicator"/>

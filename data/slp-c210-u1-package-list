@@ -780,9 +780,9 @@ system-popup
 system-server
 systemd
 systemd-units-slp-c210
-sysv-rc
-sysvinit
-sysvinit-utils
+systemd-sysv
+tizen-mobile-session
+xorg-launch-helper
 tcpdump
 tel-plugin-atmodem
 tel-plugin-database
