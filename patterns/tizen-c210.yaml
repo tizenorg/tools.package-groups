@@ -450,7 +450,6 @@ Packages:
     - system-plugin-slp
     - system-server
     - systemd
-    - systemd-units-slp-c210
     - systemd-sysv
     - tizen-mobile-session
     - xorg-launch-helper
