@@ -31,11 +31,11 @@ Packages:
     - libpci3
     - libpython
     - libuuid
-    - login
     - lua
     - minizip
     - pciutils
     - pcre
+    - pwdutils
     - python
     - python-base
     - python-curses
@@ -50,6 +50,7 @@ Packages:
     - rpm-libs
     - sqlite
     - texinfo
+    - util-linux
     - uuidd
     - which
     - xz

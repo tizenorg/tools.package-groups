@@ -1,3 +1,6 @@
+* Thu Jul 05 2012 Patrick McCarty <patrick.mccarty@linux.intel.com> db97dbc
+- Replace login/passwd packages with util-linux and pwdutils
+
 * Thu Jul 05 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
 - removing power-manager-bin. It is now replaced by power-manager
 

@@ -51,6 +51,7 @@ Packages:
     - busybox-symlinks-iputils-ping
     - busybox-symlinks-klogd
     - busybox-symlinks-loadlin
+    - busybox-symlinks-loginutils
     - busybox-symlinks-lrzsz
     - busybox-symlinks-lzma
     - busybox-symlinks-lzop

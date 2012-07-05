@@ -24,16 +24,15 @@ Packages:
 - insserv
 - libsqlfs
 - libss-client
-- login
 - lsb
 - mkdevnodes
 - module-init-tools
 - mtdev
 - net-tools
-- passwd
 - prelink
 - procps
 - psmisc
+- pwdutils
 - readline
 - rfkill
 - rpm
@@ -47,7 +46,7 @@ Packages:
 - tzdata-slp
 - udev
 - usbutils
-- util-linux-ng
+- util-linux
 Summary: Base System
 
 # remove less
