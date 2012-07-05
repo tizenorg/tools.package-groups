@@ -1,3 +1,6 @@
+* Thu Jul 05 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- removing power-manager-bin. It is now replaced by power-manager
+
 * Mon Jul 02 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
 - Removing sysvinit and adding systemd-sysv
 - Removing systemd-units-slp-c210

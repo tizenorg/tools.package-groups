@@ -465,7 +465,6 @@ pkgmgr-client
 pkgmgr-installer
 pkgmgr-server
 power-manager
-power-manager-bin
 prelink
 psmisc
 pulseaudio

@@ -418,7 +418,7 @@
         <rpm:entry name="pkgmgr-client"/>
         <rpm:entry name="pkgmgr-installer"/>
         <rpm:entry name="pkgmgr-server"/>
-        <rpm:entry name="power-manager-bin"/>
+        <rpm:entry name="power-manager"/>
         <rpm:entry name="prelink"/>
         <rpm:entry name="pulseaudio"/>
         <rpm:entry name="pulseaudio-libs"/>

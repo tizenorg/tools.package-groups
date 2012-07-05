@@ -413,7 +413,7 @@ Packages:
     - pkgmgr-client
     - pkgmgr-installer
     - pkgmgr-server
-    - power-manager-bin
+    - power-manager
     - prelink
     - pulseaudio
     - pulseaudio-libs

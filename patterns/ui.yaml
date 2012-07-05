@@ -74,7 +74,7 @@ Packages:
 - org.tizen.wifi-direct-popup
 - org.tizen.phone-lock
 - org.tizen.phone
-- power-manager-bin
+- power-manager
 - pulseaudio-module-bluetooth
 - pulseaudio-utils
 - org.tizen.pwlock
