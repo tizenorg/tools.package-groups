@@ -1,6 +1,7 @@
 Description: Tizen UI
 Name: ui
 Packages:
+- tizen-mobile-session 
 - app-core-common
 - app-core-efl
 - app-svc
@@ -16,6 +17,8 @@ Packages:
 - org.tizen.ciss
 - org.tizen.clock
 - org.tizen.contacts
+- org.tizen.gallery
+- org.tizen.draglock
 - default-fonts-sdk
 - e17
 - e17-data
@@ -28,7 +31,6 @@ Packages:
 - elm-misc
 - emotion
 - emotion-gstreamer
-- org.tizen.gallery
 - gps-manager
 - gst-ffmpeg
 - gst-plugins-bad

@@ -48,9 +48,3 @@ Packages:
 - usbutils
 - util-linux
 Summary: Base System
-
-# remove less
-# remove- bluez-gstreamer
-# remove- mingetty
-# remove- ofono
-# remove- tizen-repos

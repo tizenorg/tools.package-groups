@@ -1,7 +1,6 @@
 Description: Development Tools
 Name: development
 Packages:
-- app-core-debuginfo
 - bootchart
 - connman-test
 - dbus-python
@@ -10,7 +9,6 @@ Packages:
 - eet-tools
 - elementary-tools
 - gdb
-- ofono-test
 - openssh-clients
 - openssh-server
 - pygobject2
@@ -18,11 +16,7 @@ Packages:
 - sdbd
 - strace
 - wget
+- vim
 - zypper
-- evas-debuginfo
-- elementary-debuginfo
-- app-core-debuginfo
-- browser-debuginfo
-- menu-screen-debuginfo
-- e17-debuginfo
+- less
 Summary: Development Tools

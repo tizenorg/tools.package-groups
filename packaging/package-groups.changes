@@ -1,3 +1,6 @@
+* Fri Jul 06 2012 Anas Nashif <anas.nashif@intel.com> 20120705.1@337f0ec
+- sync version and update patterns
+
 * Thu Jul 05 2012 Patrick McCarty <patrick.mccarty@linux.intel.com> db97dbc
 - Replace login/passwd packages with util-linux and pwdutils
 
