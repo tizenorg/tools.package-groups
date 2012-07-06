@@ -1,7 +1,8 @@
 Description: Tizen UI
 Name: ui
 Packages:
-- tizen-mobile-session 
+- tizen-mobile-session
+- xorg-launch-helper 
 - app-core-common
 - app-core-efl
 - app-svc
