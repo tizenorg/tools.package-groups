@@ -61,7 +61,6 @@ busybox-symlinks-lzop
 busybox-symlinks-mtd-utils
 busybox-symlinks-net-tools
 busybox-symlinks-openbsd-inetd
-busybox-symlinks-passwd
 busybox-symlinks-patch
 busybox-symlinks-ppp
 busybox-symlinks-procps
@@ -225,7 +224,6 @@ icu
 image-viewer
 imake
 iniparser
-initscripts
 insserv
 iptables
 iptables-ipv6

@@ -28,7 +28,6 @@ Packages:
     - busybox-symlinks-adjtimex
     - busybox-symlinks-binutils
     - busybox-symlinks-bridge-utils
-    - busybox-symlinks-bsdmainutils
     - busybox-symlinks-busybox
     - busybox-symlinks-bzip2
     - busybox-symlinks-console-tools
@@ -58,7 +57,6 @@ Packages:
     - busybox-symlinks-mtd-utils
     - busybox-symlinks-net-tools
     - busybox-symlinks-openbsd-inetd
-    - busybox-symlinks-passwd
     - busybox-symlinks-ppp
     - busybox-symlinks-psmisc
     - busybox-symlinks-rdate
@@ -201,7 +199,6 @@ Packages:
     - icu
     - imake
     - iniparser
-    - initscripts
     - iptables
     - iptables-ipv6
     - ise-default

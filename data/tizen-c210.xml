@@ -33,7 +33,6 @@
         <rpm:entry name="busybox-symlinks-adjtimex"/>
         <rpm:entry name="busybox-symlinks-binutils"/>
         <rpm:entry name="busybox-symlinks-bridge-utils"/>
-        <rpm:entry name="busybox-symlinks-bsdmainutils"/>
         <rpm:entry name="busybox-symlinks-busybox"/>
         <rpm:entry name="busybox-symlinks-bzip2"/>
         <rpm:entry name="busybox-symlinks-console-tools"/>
@@ -62,7 +61,6 @@
         <rpm:entry name="busybox-symlinks-mtd-utils"/>
         <rpm:entry name="busybox-symlinks-net-tools"/>
         <rpm:entry name="busybox-symlinks-openbsd-inetd"/>
-        <rpm:entry name="busybox-symlinks-passwd"/>
         <rpm:entry name="busybox-symlinks-ppp"/>
         <rpm:entry name="busybox-symlinks-psmisc"/>
         <rpm:entry name="busybox-symlinks-rdate"/>
@@ -205,7 +203,6 @@
         <rpm:entry name="icu"/>
         <rpm:entry name="imake"/>
         <rpm:entry name="iniparser"/>
-        <rpm:entry name="initscripts"/>
         <rpm:entry name="iptables"/>
         <rpm:entry name="iptables-ipv6"/>
         <rpm:entry name="ise-default"/>

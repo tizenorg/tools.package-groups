@@ -1,3 +1,6 @@
+* Sat Jul 07 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Removing busybox-symlinks-passwd, busybox-symlinks-bsdmainutils and initscripts
+
 * Fri Jul 06 2012 Brad Peters <brad.t.peters@intel.com> 20120706
 - Adding xorg-launch-helper to ui, which provides our X unit files
 
