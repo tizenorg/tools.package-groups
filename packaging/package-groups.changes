@@ -1,3 +1,6 @@
+* Mon Jul 09 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Removing python-demo, python-idle and python-gdbm from tizen-bootstrap pattern
+
 * Sat Jul 07 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
 - Removing busybox-symlinks-passwd, busybox-symlinks-bsdmainutils and initscripts
 
