@@ -1,6 +1,7 @@
 Description: Pinetrail Support
 Name: pinetrail-support
 Packages:
+- kernel-adaptation-pc
 - acpid
 - device-config-touch-eGalax
 - device-configs-ExoPC

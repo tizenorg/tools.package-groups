@@ -1,3 +1,6 @@
+* Wed Jul 11 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Adding kernel-adaptation-pc to pinetrail support. Adding systemd and systemd-sysv
+
 * Wed Jul 11 2012 william.douglas@intel.com <william.douglas@intel.com> 20120709.1@2dd1b3f
 [ William Douglas ]
 - Fix missing module error on lunchbox startup.

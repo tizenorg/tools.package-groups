@@ -47,4 +47,6 @@ Packages:
 - udev
 - usbutils
 - util-linux
+- systemd
+- systemd-sysv
 Summary: Base System
