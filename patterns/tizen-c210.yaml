@@ -142,6 +142,7 @@ Packages:
     - e17
     - e17-data
     - e17-extra-modules
+    - e17-extra-private-modules
     - e17-misc
     - ecore
     - ecore-con
