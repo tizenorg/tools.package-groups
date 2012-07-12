@@ -31,4 +31,5 @@ Packages:
 - device-config-touch-eGalax
 - device-config-touch-mxt224
 - device-config-touch-sitronix
+- alsa-scenario-scn-data-0-base
 Summary: Pinetrail Support
