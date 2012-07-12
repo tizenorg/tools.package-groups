@@ -1,3 +1,6 @@
+* Thu Jul 12 2012 Patrick McCarty <patrick.mccarty@linux.intel.com> 5da982e
+- Add a tag for OBS submission
+
 * Thu Jul 12 2012 Karol Lewandowski <k.lewandowsk@samsung.com>
 - Require svi-data-sdk on tizen-c210
 
