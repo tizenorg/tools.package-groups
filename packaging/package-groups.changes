@@ -1,3 +1,6 @@
+* Thu Jul 12 2012 Karol Lewandowski <k.lewandowsk@samsung.com>
+- Require svi-data-sdk on tizen-c210
+
 * Wed Jul 11 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
 - Adding kernel-adaptation-pc to pinetrail support. Adding systemd and systemd-sysv
 

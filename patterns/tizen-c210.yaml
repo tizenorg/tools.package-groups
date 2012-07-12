@@ -440,6 +440,7 @@ Packages:
     - starter
     - strace
     - stt
+    - svi-data-sdk
     - sync-agent-framework
     - sys-assert
     - sys-string
