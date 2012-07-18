@@ -19,6 +19,7 @@ Packages:
     - xorg-x11-apps
     - xorg-x11-drv-fbdev
     - xorg-input-evdev
+    - xorg-drv-mtev
     - xorg-input-evdev-multitouch
     - xorg-x11-drv-input-gesture
     - xorg-x11-filesystem
@@ -32,6 +33,9 @@ Packages:
     - xorg-x11-xinit
     - xorg-x11-xkb-utils
     - xorg-x11-xserver-utils
+    - xorg-x11-drv-intel            
+    - xorg-x11-drv-keyboard         
+    - xorg-x11-drv-synaptics
     - xorg-launch-helper
     - xserver-common
     - xserver-xorg-core
@@ -528,3 +532,4 @@ Packages:
     - libsatsolver
     - libzypp
     - zypper
+    - alsa-scenario-scn-data-0-base
