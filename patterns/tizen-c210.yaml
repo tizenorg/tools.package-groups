@@ -392,6 +392,7 @@ Packages:
     - org.tizen.lowmem-syspopup
     - org.tizen.memo
     - org.tizen.menu-screen
+    - org.tizen.message
     - org.tizen.music-player
     - org.tizen.phone
     - org.tizen.phone-lock
