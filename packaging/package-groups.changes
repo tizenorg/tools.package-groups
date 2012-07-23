@@ -1,3 +1,6 @@
+* Mon Jul 23 2012 Patrick McCarty <patrick.mccarty@linux.intel.com> 4b0f5e7
+- tizen-c210: add xorg-x11-xserver-utils-lb to package group
+
 * Wed Jul 18 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
 - Adding more package to pinetrail support
 

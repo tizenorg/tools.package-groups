@@ -510,6 +510,7 @@ Packages:
     - xorg-x11-xinit
     - xorg-x11-xkb-utils
     - xorg-x11-xserver-utils
+    - xorg-x11-xserver-utils-lb
     - xserver-common
     - xserver-xorg-core
     - xserver-xorg-tools
