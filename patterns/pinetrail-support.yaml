@@ -2,6 +2,7 @@ Description: Pinetrail Support
 Name: pinetrail-support
 Summary: Pinetrail Support
 Packages:
+    - device-manager-plugin-pinetrail
     - acpid
     - device-config-touch-eGalax
     - device-configs-ExoPC
