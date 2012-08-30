@@ -3,7 +3,7 @@ VERSION = $(shell cat VERSION)
 NAME=package-groups
 TAGVER = $(shell cat VERSION | sed -e "s/\([0-9\.]*\).*/\1/")
 DESTDIR=
-ARCH=i586
+ARCH=
 
 ifeq ($(VERSION), $(TAGVER))
         TAG = $(TAGVER)
@@ -12,11 +12,7 @@ else
 endif
 
 all: 
-	python scripts/merge-patterns.py -a ${ARCH}
-	xsltproc xsl/comps.xsl patterns.xml > group.xml
-
-meta: 
-	python scripts/merge-patterns.py -a ${ARCH} -s
+	sh update.sh ${ARCH}
 
 install:
 	install -d ${DESTDIR}/usr/share/package-groups
@@ -24,16 +20,16 @@ install:
 	install -m 644 group.xml ${DESTDIR}/usr/share/package-groups
 
 tag:
-	git tag -a $(VERSION) -m "$(VERSION)"
+	git tag $(VERSION)
 	git push --tags
 
 changelog:
 	python ./scripts/gitlog2changelog.py
 
 repackage: dist
-	osc branch -c Tizen:Base $(NAME)
-	rm home\:*\:branches\:Tizen:Base/$(NAME)/*tar.bz2
-	cp $(NAME)-$(VERSION).tar.bz2 home\:*\:branches\:Tizen:Base/$(NAME)
+	osc branch -c Trunk:Testing $(NAME)
+	rm home\:*\:branches\:Trunk:Testing/$(NAME)/*tar.bz2
+	cp $(NAME)-$(VERSION).tar.bz2 home\:*\:branches\:Trunk:Testing/$(NAME)
 
 	
 
@@ -48,4 +44,4 @@ dist-gz:
 dist: dist-bz2
 
 clean:
-	rm -rf patterns.xml INDEX.xml group.xml *.xml
+	rm -rf patterns.xml INDEX.xml group.xml

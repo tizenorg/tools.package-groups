@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern xmlns:rpm="http://linux.duke.edu/metadata/rpm"
+         xmlns="http://novell.com/package/metadata/suse/pattern">
+    <name>appscommon</name>
+    <summary>Common Applications</summary>
+    <description>Common Applications</description>
+    <uservisible/>
+    <category lang="en">appscommon</category>
+    <rpm:requires>
+        <rpm:entry name="org.tizen.app-selector"/>
+        <rpm:entry name="org.tizen.browser"/>
+        <rpm:entry name="org.tizen.call"/>
+        <rpm:entry name="org.tizen.download-manager"/>
+        <rpm:entry name="org.tizen.draglock"/>
+        <rpm:entry name="org.tizen.indicator"/>
+        <rpm:entry name="org.tizen.lowbat-syspopup"/>
+        <rpm:entry name="org.tizen.lowmem-syspopup"/>
+        <rpm:entry name="org.tizen.menu-screen"/>
+        <rpm:entry name="org.tizen.poweroff-syspopup"/>
+        <rpm:entry name="org.tizen.quickpanel"/>
+        <rpm:entry name="org.tizen.tickernoti-syspopup"/>
+        <rpm:entry name="org.tizen.usb-syspopup"/>
+        <rpm:entry name="org.tizen.volume"/>
+    </rpm:requires>
+</pattern>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern xmlns:rpm="http://linux.duke.edu/metadata/rpm"
+         xmlns="http://novell.com/package/metadata/suse/pattern">
+    <name>trats</name>
+    <summary>trats</summary>
+    <description>trats</description>
+    <uservisible/>
+    <category lang="en">trats</category>
+    <rpm:requires>
+        <rpm:entry name="alsa-scenario-scn-data-0-mc1n2"/>
+        <rpm:entry name="bluetooth-firmware-bcm"/>
+        <rpm:entry name="bluetooth-share"/>
+        <rpm:entry name="bluetooth-tools"/>
+        <rpm:entry name="charging-animation"/>
+        <rpm:entry name="default-files-slp"/>
+        <rpm:entry name="device-manager-plugin-exynos"/>
+        <rpm:entry name="e17-misc"/>
+        <rpm:entry name="edje_multisense_plugin"/>
+        <rpm:entry name="gst-plugins-s5pc2xx"/>
+        <rpm:entry name="libbluetooth-share"/>
+        <rpm:entry name="libdrm-slp-gem"/>
+        <rpm:entry name="libflac"/>
+        <rpm:entry name="libremix"/>
+        <rpm:entry name="libump"/>
+        <rpm:entry name="mmfw-sysconf-cleansdk-target"/>
+        <rpm:entry name="net.wifi-qs"/>
+        <rpm:entry name="obexd"/>
+        <rpm:entry name="opengl-es-mali400mp"/>
+        <rpm:entry name="pango"/>
+        <rpm:entry name="pixman"/>
+        <rpm:entry name="rfkill"/>
+        <rpm:entry name="sensor-plugins"/>
+        <rpm:entry name="system-plugin-slp"/>
+        <rpm:entry name="tel-plugin-imc"/>
+        <rpm:entry name="tel-plugin-imcmodem"/>
+        <rpm:entry name="ug-bluetooth-efl"/>
+        <rpm:entry name="wifi-efl-ug"/>
+        <rpm:entry name="wlandrv-plugin-tizen-bcm43xx"/>
+        <rpm:entry name="wpa_supplicant"/>
+        <rpm:entry name="xorg-x11-drv-exynos"/>
+        <rpm:entry name="xorg-x11-misc-exynos"/>
+    </rpm:requires>
+</pattern>
