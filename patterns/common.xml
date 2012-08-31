@@ -181,6 +181,7 @@
         <rpm:entry name="libdecarta"/>
         <rpm:entry name="libdevman"/>
         <rpm:entry name="libdlog"/>
+        <rpm:entry name="libdownload-agent"/>
         <rpm:entry name="libdmx"/>
         <rpm:entry name="libdri2"/>
         <rpm:entry name="libdrm2"/>

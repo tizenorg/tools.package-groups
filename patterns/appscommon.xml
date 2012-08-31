@@ -21,5 +21,7 @@
         <rpm:entry name="org.tizen.tickernoti-syspopup"/>
         <rpm:entry name="org.tizen.usb-syspopup"/>
         <rpm:entry name="org.tizen.volume"/>
+        <rpm:entry name="org.tizen.wifi-direct-popup"/>
+        <rpm:entry name="org.tizen.wifi-direct-ugapp"/>
     </rpm:requires>
 </pattern>
