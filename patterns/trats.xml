@@ -24,6 +24,7 @@
         <rpm:entry name="libump"/>
         <rpm:entry name="mmfw-sysconf-cleansdk-target"/>
         <rpm:entry name="net.wifi-qs"/>
+        <rpm:entry name="nfc-plugin-nxp"/>
         <rpm:entry name="obexd"/>
         <rpm:entry name="opengl-es-mali400mp"/>
         <rpm:entry name="pango"/>
