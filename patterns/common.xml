@@ -239,6 +239,7 @@
         <rpm:entry name="libshortcut"/>
         <rpm:entry name="libslp-alarm"/>
         <rpm:entry name="libslp-db-util"/>
+        <rpm:entry name="libslp-lbs-plugin-replay"/>
         <rpm:entry name="libslp-location"/>
         <rpm:entry name="libslp-memo"/>
         <rpm:entry name="libslp-pm"/>
@@ -372,6 +373,7 @@
         <rpm:entry name="starter"/>
         <rpm:entry name="strace"/>
         <rpm:entry name="stt"/>
+        <rpm:entry name="svi-data-sdk"/>
         <rpm:entry name="sys-assert"/>
         <rpm:entry name="sysman"/>
         <rpm:entry name="syspopup"/>
