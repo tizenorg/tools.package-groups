@@ -352,7 +352,6 @@
         <rpm:entry name="rpm"/>
         <rpm:entry name="rpm-installer"/>
         <rpm:entry name="rpm-libs"/>
-        <rpm:entry name="rpm-security-plugin"/>
         <rpm:entry name="sdbd"/>
         <rpm:entry name="security-server"/>
         <rpm:entry name="sensor"/>
