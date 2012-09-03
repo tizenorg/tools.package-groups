@@ -1,7 +1,7 @@
 Summary:	SLP Package Groups
 Name:		package-groups
 Version:	0.36
-Release:	0
+Release:	2
 License:	GPLv2
 Group:		System/Base
 URL:		http://www.tizen.org
