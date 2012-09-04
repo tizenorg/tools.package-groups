@@ -434,8 +434,6 @@
         <rpm:entry name="xorg-x11-drv-evdev-multitouch"/>
         <rpm:entry name="xorg-x11-drv-gesture"/>
         <rpm:entry name="xorg-x11-font-utils"/>
-        <rpm:entry name="xorg-x11-proto-dri2"/>
-        <rpm:entry name="xorg-x11-proto-randr"/>
         <rpm:entry name="xorg-x11-server-common"/>
         <rpm:entry name="xorg-x11-server-utils"/>
         <rpm:entry name="xorg-x11-server-Xorg"/>
