@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pattern xmlns:rpm="http://linux.duke.edu/metadata/rpm"
+         xmlns="http://novell.com/package/metadata/suse/pattern">
+    <name>m0</name>
+    <summary>m0</summary>
+    <description>m0</description>
+    <uservisible/>
+    <category lang="en">m0</category>
+    <rpm:requires>
+        <rpm:entry name="alsa-scenario-scn-data-0-wm1811"/>
+        <rpm:entry name="bluetooth-firmware-bcm-24412"/>
+        <rpm:entry name="bluetooth-share"/>
+        <rpm:entry name="bluetooth-tools"/>
+        <rpm:entry name="charging-animation"/>
+        <rpm:entry name="default-files-slp"/>
+        <rpm:entry name="device-manager-plugin-exynos"/>
+        <rpm:entry name="e17-misc"/>
+        <rpm:entry name="edje_multisense_plugin"/>
+        <rpm:entry name="gst-plugins-e4x12"/>
+        <rpm:entry name="libbluetooth-share"/>
+        <rpm:entry name="libdrm-slp-gem"/>
+        <rpm:entry name="libflac"/>
+        <rpm:entry name="libremix"/>
+        <rpm:entry name="libump"/>
+        <rpm:entry name="mmfw-sysconf-e4x12"/>
+        <rpm:entry name="net.wifi-qs"/>
+        <rpm:entry name="nfc-plugin-nxp"/>
+        <rpm:entry name="obexd"/>
+        <rpm:entry name="opengl-es-mali400mp"/>
+        <rpm:entry name="pango"/>
+        <rpm:entry name="pixman"/>
+        <rpm:entry name="rfkill"/>
+        <rpm:entry name="sensor-plugins"/>
+        <rpm:entry name="system-plugin-slp"/>
+        <rpm:entry name="tel-plugin-imc"/>
+        <rpm:entry name="tel-plugin-imcmodem"/>
+        <rpm:entry name="ug-bluetooth-efl"/>
+        <rpm:entry name="wifi-efl-ug"/>
+        <rpm:entry name="wlandrv-plugin-tizen-bcm43xx"/>
+        <rpm:entry name="wpa_supplicant"/>
+        <rpm:entry name="xorg-x11-drv-exynos"/>
+        <rpm:entry name="xorg-x11-misc-exynos"/>
+    </rpm:requires>
+</pattern>
