@@ -64,7 +64,6 @@
         <rpm:entry name="cbhm"/>
         <rpm:entry name="cert-svc"/>
         <rpm:entry name="cert-svc-ui"/>
-        <rpm:entry name="chromium"/>
         <rpm:entry name="connman"/>
         <rpm:entry name="contacts-service"/>
         <rpm:entry name="cups"/>
@@ -311,7 +310,6 @@
         <rpm:entry name="menu-daemon"/>
         <rpm:entry name="mesa-libOSMesa"/>
         <rpm:entry name="minizip"/>
-        <rpm:entry name="mjson"/>
         <rpm:entry name="mms-plugin"/>
         <rpm:entry name="module-init-tools"/>
         <rpm:entry name="msg-service"/>
@@ -327,8 +325,6 @@
         <rpm:entry name="opengl-es"/>
         <rpm:entry name="openssh-client"/>
         <rpm:entry name="openssh-server"/>
-        <rpm:entry name="osp-compat"/>
-        <rpm:entry name="osp-foundation"/>
         <rpm:entry name="pciutils"/>
         <rpm:entry name="pcre"/>
         <rpm:entry name="pkgmgr"/>
