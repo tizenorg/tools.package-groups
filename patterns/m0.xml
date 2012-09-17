@@ -8,7 +8,7 @@
     <category lang="en">m0</category>
     <rpm:requires>
         <rpm:entry name="alsa-scenario-scn-data-0-wm1811"/>
-        <rpm:entry name="bluetooth-firmware-bcm-24412"/>
+        <rpm:entry name="bluetooth-firmware-bcm-e4412"/>
         <rpm:entry name="bluetooth-share"/>
         <rpm:entry name="bluetooth-tools"/>
         <rpm:entry name="charging-animation"/>
