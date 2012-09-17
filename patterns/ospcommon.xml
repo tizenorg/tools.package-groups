@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pattern xmlns:rpm="http://linux.duke.edu/metadata/rpm"
          xmlns="http://novell.com/package/metadata/suse/pattern">
-    <name>oscpcommon</name>
+    <name>ospcommon</name>
     <summary>osp common</summary>
     <description>osp common</description>
     <uservisible/>
