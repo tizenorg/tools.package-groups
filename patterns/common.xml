@@ -354,8 +354,6 @@
         <rpm:entry name="sensor-framework"/>
         <rpm:entry name="settings"/>
         <rpm:entry name="shared-mime-info"/>
-        <rpm:entry name="slp-fonts-fallback"/>
-        <rpm:entry name="slp-fonts-japanese"/>
         <rpm:entry name="smack"/>
         <rpm:entry name="smack-utils"/>
         <rpm:entry name="smartcard-plugin-nfc"/>

@@ -21,12 +21,11 @@
         <rpm:entry name="libdrm-slp-gem"/>
         <rpm:entry name="libflac"/>
         <rpm:entry name="libremix"/>
-        <rpm:entry name="libump"/>
         <rpm:entry name="mmfw-sysconf-e4x12"/>
         <rpm:entry name="net.wifi-qs"/>
         <rpm:entry name="nfc-plugin-nxp"/>
         <rpm:entry name="obexd"/>
-        <rpm:entry name="opengl-es-mali400mp"/>
+        <rpm:entry name="opengl-es-virtual-drv"/>
         <rpm:entry name="pango"/>
         <rpm:entry name="pixman"/>
         <rpm:entry name="rfkill"/>
