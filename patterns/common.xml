@@ -441,5 +441,6 @@
         <rpm:entry name="xz"/>
         <rpm:entry name="xz-libs"/>
         <rpm:entry name="zlib"/>
+        <rpm:entry name="zypper"/>
     </rpm:requires>
 </pattern>
