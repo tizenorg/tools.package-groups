@@ -114,7 +114,6 @@
         <rpm:entry name="embryo"/>
         <rpm:entry name="emotion"/>
         <rpm:entry name="emotion-gstreamer"/>
-        <rpm:entry name="epson-inkjet-printer-escpr"/>
         <rpm:entry name="ethumb"/>
         <rpm:entry name="evas"/>
         <rpm:entry name="expat"/>
@@ -147,7 +146,6 @@
         <rpm:entry name="gstreamer"/>
         <rpm:entry name="gstreamer-tools"/>
         <rpm:entry name="heynoti"/>
-        <rpm:entry name="hplip"/>
         <rpm:entry name="icu"/>
         <rpm:entry name="icu"/>
         <rpm:entry name="iniparser"/>
@@ -223,8 +221,6 @@
         <rpm:entry name="libpci3"/>
         <rpm:entry name="libpciaccess"/>
         <rpm:entry name="libpng"/>
-        <rpm:entry name="libpoppler25"/>
-        <rpm:entry name="libpoppler-glib8"/>
         <rpm:entry name="libprivilege-control"/>
         <rpm:entry name="libprivilege-control-conf"/>
         <rpm:entry name="libpush"/>
@@ -327,7 +323,6 @@
         <rpm:entry name="pkgmgr-installer"/>
         <rpm:entry name="pkgmgr-parser"/>
         <rpm:entry name="pkgmgr-server"/>
-        <rpm:entry name="poppler-tools"/>
         <rpm:entry name="power-manager-bin"/>
         <rpm:entry name="prelink"/>
         <rpm:entry name="psmisc"/>
