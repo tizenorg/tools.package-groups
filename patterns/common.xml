@@ -66,10 +66,6 @@
         <rpm:entry name="cert-svc-ui"/>
         <rpm:entry name="connman"/>
         <rpm:entry name="contacts-service"/>
-        <rpm:entry name="cups"/>
-        <rpm:entry name="cups-data"/>
-        <rpm:entry name="cups-filters"/>
-        <rpm:entry name="cups-libs"/>
         <rpm:entry name="curl"/>
         <rpm:entry name="data-router"/>
         <rpm:entry name="dbus"/>
@@ -174,7 +170,6 @@
         <rpm:entry name="libbluetooth3"/>
         <rpm:entry name="libcamsrcjpegenc"/>
         <rpm:entry name="libcamsrcjpegenc-sw-libjpeg"/>
-        <rpm:entry name="libcupsfilters1"/>
         <rpm:entry name="libcurl"/>
         <rpm:entry name="libdaemon"/>
         <rpm:entry name="libdecarta"/>
