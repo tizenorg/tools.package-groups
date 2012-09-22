@@ -15,7 +15,6 @@
         <rpm:entry name="default-files-slp"/>
         <rpm:entry name="device-manager-plugin-exynos"/>
         <rpm:entry name="e17-misc"/>
-        <rpm:entry name="edje_multisense_plugin"/>
         <rpm:entry name="gst-plugins-s5pc2xx"/>
         <rpm:entry name="libbluetooth-share"/>
         <rpm:entry name="libdrm-slp-gem"/>
