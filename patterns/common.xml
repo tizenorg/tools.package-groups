@@ -384,7 +384,6 @@
         <rpm:entry name="ug-memo-efl"/>
         <rpm:entry name="ug-myfile-efl"/>
         <rpm:entry name="ug-nfc-efl"/>
-        <rpm:entry name="ug-setting-crash-efl"/>
         <rpm:entry name="ug-setting-gallery-efl"/>
         <rpm:entry name="ug-setting-location-efl"/>
         <rpm:entry name="ug-setting-manage-applications-efl"/>
