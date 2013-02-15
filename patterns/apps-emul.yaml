@@ -1,0 +1,9 @@
+Description: Emulator Applications
+Name: apps-emul
+Packages:
+- org.tizen.camera-app
+- org.tizen.clock
+- org.tizen.email
+- org.tizen.memo
+- org.tizen.message
+Summary: Emulator Applications

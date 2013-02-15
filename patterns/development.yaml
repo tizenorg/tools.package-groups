@@ -1,0 +1,22 @@
+Description: Development Tools
+Name: development
+Packages:
+- bootchart
+- connman-test
+- dbus-python
+- dialog
+- edje-tools
+- eet-tools
+- elementary-tools
+- gdb
+- openssh-clients
+- openssh-server
+- pygobject2
+- python-xml
+- sdbd
+- strace
+- wget
+- vim
+- zypper
+- less
+Summary: Development Tools

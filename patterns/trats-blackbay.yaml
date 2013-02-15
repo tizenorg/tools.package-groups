@@ -1,0 +1,23 @@
+Description: trats-blackbay
+Name: trats-blackbay
+Packages:
+- alsa-scenario-scn-data-0-mc1n2
+- bluetooth-share
+- bluetooth-tools
+- default-files-tizen
+- e17-misc
+- libbluetooth-share
+- mobileap-agent
+- net.wifi-qs
+- nfc-plugin-nxp
+- obexd
+- pango
+- pixman
+- rfkill
+- ug-bluetooth-efl
+- ug-setting-mobileap-efl
+- wifi-efl-ug
+- wpasupplicant
+- sensor-plugins-mfld-blackbay
+- gst-plugins-atomisp
+Summary: trats-blackbay
