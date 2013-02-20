@@ -3,7 +3,6 @@ Name: medfield-support
 Packages:
 - device-configs-mfld-blackbay
 - kernel-mfld-blackbay
-- linux-firmware-mfld
 - system-plugin-ia-generic
 - uim
 - xorg-server-configs-mfld-blackbay
