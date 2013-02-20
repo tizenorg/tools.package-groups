@@ -509,7 +509,6 @@ Packages:
     - webkit-engine
     - which
     - wifi-efl-ug
-    - wlandrv-plugin-bcm43xx
     - wpasupplicant
     - wrt
     - wrt-commons

@@ -29,7 +29,7 @@ Packages:
 - ug-bluetooth-efl
 - ug-setting-mobileap-efl
 - wifi-efl-ug
-- wlandrv-plugin-tizen-bcm43xx
+- wlandrv-plugin-tizen2.0-bcm43xx
 - wpasupplicant
 - xorg-x11-drv-exynos
 - xorg-x11-misc-exynos
