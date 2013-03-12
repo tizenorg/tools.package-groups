@@ -1,0 +1,81 @@
+* Thu Jan 31 2013 prajwal.karur.mohan@intel.com <prajwal.karur.mohan@intel.com> accepted/tizen_2.0/20130131.034847@d759b84
+- Adding packages: sensor-plugins-mfld-blackbay and gst-plugins-atomsip to trats-blackbay pattern
+
+* Mon Jan 28 2013 prajwal.karur.mohan@intel.com <prajwal.karur.mohan@intel.com> accepted/tizen_2.0/20130124.031345@e5edda4
+- Adding package ug-setting-mobileap-efl to PR3 images
+
+* Tue Oct 30 2012 prajwal.karur.mohan@intel.com <prajwal.karur.mohan@intel.com> submit/trunk/20121030.094113@56b50b1
+- Adding medfield package group
+
+* Fri Jul 27 2012 Brad Peters <brad.t.peters@intel.com>
+- Adding device-manager-plugin-pinetrail package, to enable system_server
+
+* Mon Jul 23 2012 Patrick McCarty <patrick.mccarty@linux.intel.com> 130c7d6
+- tizen-c210: add message app to the package group
+
+* Mon Jul 23 2012 Patrick McCarty <patrick.mccarty@linux.intel.com> 4b0f5e7
+- tizen-c210: add xorg-x11-xserver-utils-lb to package group
+
+* Wed Jul 18 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Adding more package to pinetrail support
+
+* Wed Jul 18 2012 Brad Peters <brad.t.peters@intel.com>
+- Updating handset-pinetrail pattern
+
+* Thu Jul 12 2012 yan.yin@intel.com <yan.yin@intel.com> 20120711.1@65752dc
+- add alsa-scenario-scn-data-0-base for pinetrail
+
+* Thu Jul 12 2012 Patrick McCarty <patrick.mccarty@linux.intel.com> 5da982e
+- Add a tag for OBS submission
+
+* Thu Jul 12 2012 Karol Lewandowski <k.lewandowsk@samsung.com>
+- Require svi-data-sdk on tizen-c210
+
+* Wed Jul 11 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Adding kernel-adaptation-pc to pinetrail support. Adding systemd and systemd-sysv
+
+* Wed Jul 11 2012 william.douglas@intel.com <william.douglas@intel.com> 20120709.1@2dd1b3f
+[ William Douglas ]
+- Fix missing module error on lunchbox startup.
+
+* Mon Jul 09 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Removing python-demo, python-idle and python-gdbm from tizen-bootstrap pattern
+
+* Sat Jul 07 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Removing busybox-symlinks-passwd, busybox-symlinks-bsdmainutils and initscripts
+
+* Fri Jul 06 2012 Brad Peters <brad.t.peters@intel.com> 20120706
+- Adding xorg-launch-helper to ui, which provides our X unit files
+
+* Fri Jul 06 2012 Anas Nashif <anas.nashif@intel.com> 20120705.1@337f0ec
+- sync version and update patterns
+
+* Thu Jul 05 2012 Patrick McCarty <patrick.mccarty@linux.intel.com> db97dbc
+- Replace login/passwd packages with util-linux and pwdutils
+
+* Thu Jul 05 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- removing power-manager-bin. It is now replaced by power-manager
+
+* Mon Jul 02 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Removing sysvinit and adding systemd-sysv
+- Removing systemd-units-slp-c210
+
+* Tue Jun 26 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Renaming openssh-client to openssh-clients
+
+* Mon Jun 25 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Renaming packages evdev, evdev-multitouch, recordproto, renderproto and xbitmaps
+
+* Tue Jun 19 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- Renaming libkms1 to libkms
+- Renaming wpasupplicant to wpa_supplicant
+
+* Mon Jun 18 2012 Prajwal Mohan <prajwal.karur.mohan@intel.com>
+- removing busybox-symlinks-module-init-tool from package list
+- renaming libdrm2 to libdrm
+
+* Sat May  5 02:37:51 UTC 2012 - tracy.graydon@intel.com
+- Merge IVI and base patterns with tizen-c210 pattern
+- Moved loose scripts to scripts dir. 
+- Converted tizen-c210 to yaml from xml (xml ver saved in data folder)
+

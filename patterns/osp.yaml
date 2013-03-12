@@ -1,0 +1,34 @@
+Description: Tizen C++ Framework
+Name: osp
+Packages:
+- chromium
+- osp-app-controls
+- osp-app-service
+- osp-appfw
+- osp-bluetooth
+- osp-channel-service
+- osp-compat
+- osp-connectivity-service
+- osp-content
+- osp-env-config
+- osp-face
+- osp-image
+- osp-image-core
+- osp-ime
+- osp-installer
+- osp-json
+- osp-loader
+- osp-locations
+- osp-media
+- osp-messaging
+- osp-net
+- osp-nfc
+- osp-security-service
+- osp-shell
+- osp-social
+- osp-speech
+- osp-telephony
+- osp-uifw
+- osp-uix
+- osp-web
+Summary: Tizen C++ Framework
