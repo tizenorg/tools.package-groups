@@ -1,14 +1,15 @@
 Description: Applications for Reference target
 Name: appstargetsdk
 Packages:
-- libug-phone-efl
 - libug-calendar-efl
+- libug-phone-efl
+- org.tizen.browser
 - org.tizen.calculator
+- org.tizen.calendar
+- org.tizen.calendar-viewer
 - org.tizen.call
 - org.tizen.camera-app
 - org.tizen.clock
-- org.tizen.calendar
-- org.tizen.calendar-viewer
 - org.tizen.contacts
 - org.tizen.contacts-viewer
 - org.tizen.email
@@ -19,5 +20,6 @@ Packages:
 - org.tizen.music-player
 - org.tizen.myfile
 - org.tizen.phone
+- org.tizen.smartsearch
 - org.tizen.video-player
 Summary: Applications for Reference target

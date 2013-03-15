@@ -23,6 +23,7 @@ Packages:
 - libdlog-devel
 - libxml2
 - mesa-libEGL
+- mesa-libOSMesa
 - minicontrol
 - mmfw-sysconf-simulator
 - nfc-plugin-emul

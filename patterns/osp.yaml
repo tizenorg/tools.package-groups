@@ -7,6 +7,7 @@ Packages:
 - osp-appfw
 - osp-bluetooth
 - osp-channel-service
+- osp-common-service
 - osp-compat
 - osp-connectivity-service
 - osp-content
@@ -17,12 +18,14 @@ Packages:
 - osp-ime
 - osp-installer
 - osp-json
+- osp-livebox-service
 - osp-loader
 - osp-locations
 - osp-media
 - osp-messaging
 - osp-net
 - osp-nfc
+- osp-search-service
 - osp-security-service
 - osp-shell
 - osp-social
@@ -31,4 +34,5 @@ Packages:
 - osp-uifw
 - osp-uix
 - osp-web
+- osp-vision
 Summary: Tizen C++ Framework

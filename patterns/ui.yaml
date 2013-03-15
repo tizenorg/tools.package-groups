@@ -9,6 +9,7 @@ Packages:
 - bluetooth-frwk
 - bluetooth-frwk-agent
 - boot-animation
+- org.tizen.browser
 - org.tizen.bt-syspopup
 - org.tizen.calculator
 - org.tizen.call
@@ -18,7 +19,6 @@ Packages:
 - org.tizen.clock
 - org.tizen.contacts
 - org.tizen.gallery
-- org.tizen.draglock
 - default-fonts-sdk
 - e17
 - e17-data

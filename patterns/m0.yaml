@@ -9,9 +9,13 @@ Packages:
 - default-files-tizen
 - device-manager-plugin-exynos
 - e17-misc
+- edje_multisense_plugin
 - gst-plugins-e4x12
 - libbluetooth-share
 - libdrm-slp-gem
+- libflac
+- libremix
+- libtbm-exynos4412
 - mmfw-sysconf-cleansdk-e4x12
 - mobileap-agent
 - net.wifi-qs
@@ -24,6 +28,7 @@ Packages:
 - rfkill
 - sensor-plugins
 - system-plugin-slp
+- systemd-console-ttySAC2
 - tel-plugin-imc
 - tel-plugin-imcmodem
 - ug-bluetooth-efl

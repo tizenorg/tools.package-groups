@@ -1,9 +1,3 @@
-* Thu Jan 31 2013 prajwal.karur.mohan@intel.com <prajwal.karur.mohan@intel.com> accepted/tizen_2.0/20130131.034847@d759b84
-- Adding packages: sensor-plugins-mfld-blackbay and gst-plugins-atomsip to trats-blackbay pattern
-
-* Mon Jan 28 2013 prajwal.karur.mohan@intel.com <prajwal.karur.mohan@intel.com> accepted/tizen_2.0/20130124.031345@e5edda4
-- Adding package ug-setting-mobileap-efl to PR3 images
-
 * Tue Oct 30 2012 prajwal.karur.mohan@intel.com <prajwal.karur.mohan@intel.com> submit/trunk/20121030.094113@56b50b1
 - Adding medfield package group
 

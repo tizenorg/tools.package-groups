@@ -1,6 +1,7 @@
 Description: Tizen Native Reference Applications
 Name: appsref
 Packages:
+- apps.Account
 - apps.Calculator
 - apps.Calendar
 - apps.CalendarService
@@ -10,6 +11,7 @@ Packages:
 - apps.Email
 - apps.Gallery
 - apps.ImageViewer
+- apps.Internet
 - apps.Memo
 - apps.Messages
 - apps.MusicPlayer

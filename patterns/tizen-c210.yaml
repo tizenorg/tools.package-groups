@@ -375,7 +375,6 @@ Packages:
     - org.tizen.contacts-viewer
     - org.tizen.crash-worker-sdk
     - org.tizen.download-provider
-    - org.tizen.draglock
     - org.tizen.efl-calendar
     - org.tizen.gallery
     - org.tizen.image-viewer
@@ -444,6 +443,7 @@ Packages:
     - system-server
     - systemd
     - systemd-sysv
+    - systemd-console-ttySAC2
     - tizen-mobile-session
     - xorg-launch-helper
     - tel-plugin-database

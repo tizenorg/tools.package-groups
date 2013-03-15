@@ -1,6 +1,8 @@
 Description: platform commonp packages
 Name: common
 Packages:
+- dbus-python
+- python-xml
 - ail
 - alarm-server
 - alsa-lib
@@ -32,6 +34,7 @@ Packages:
 - boost-program-options
 - boost-thread
 - boot-animation
+- browser-provider
 - bundle
 - busybox
 - busybox-symlinks-busybox
@@ -55,6 +58,7 @@ Packages:
 - cbhm
 - cert-svc
 - cert-svc-ui
+- common-public-plugins
 - connman
 - cpio
 - crash-worker-sdk
@@ -63,11 +67,11 @@ Packages:
 - cups-filters
 - cups-libs
 - curl
+- data-provider-master
 - data-router
 - dbus
 - dbus-glib
 - dbus-libs
-- dbus-python
 - default-fonts-fc-sdk
 - default-fonts-sdk
 - diffutils
@@ -77,7 +81,8 @@ Packages:
 - dosfstools
 - download-provider
 - drm-client
-- drm-service-core-intel
+- drm-service-core-intel 
+- ds-public-plugins
 - e17
 - e17-data
 - e17-extra-config-modules
@@ -116,6 +121,7 @@ Packages:
 - emotion
 - emotion-gstreamer
 - enchant
+- epson-inkjet-printer-escpr
 - epson-laser-printer-escpage
 - ethumb
 - evas
@@ -133,8 +139,6 @@ Packages:
 - gcd
 - gconf-dbus
 - gconf-dbus-utils
-- gdb
-- gdb-server
 - geoclue
 - geoclue-nominatim
 - gettext-runtime
@@ -154,6 +158,7 @@ Packages:
 - gzip
 - haptic-module-tizen
 - heynoti
+- hplip
 - icu
 - icu
 - iniparser
@@ -179,6 +184,7 @@ Packages:
 - libbluetooth3
 - libcamsrcjpegenc
 - libcamsrcjpegenc-sw-libjpeg
+- libcom-core
 - libcryptsvc
 - libcupsfilters1
 - libcurl
@@ -202,14 +208,18 @@ Packages:
 - libgphoto2-port
 - libgudev1
 - libhangul
-- libhangul-data
+- libheap-monitor
 - libICE
 - libicu
-- libijs
 - libiri
 - libjpeg-turbo
 - libkms1
 - liblcms2
+- liblivebox
+- liblivebox-cpp
+- liblivebox-edje
+- liblivebox-service
+- liblivebox-viewer
 - libleveldb
 - libmedia-service
 - libmedia-thumbnail
@@ -230,6 +240,7 @@ Packages:
 - libmount
 - libnet-client
 - libogg
+- liboil
 - libpci3
 - libpciaccess
 - libpng
@@ -237,6 +248,7 @@ Packages:
 - libpoppler-glib8
 - libprivilege-control
 - libprivilege-control-conf
+- libprovider
 - libpush
 - libpython
 - librua
@@ -245,7 +257,7 @@ Packages:
 - libshortcut
 - libslp-alarm
 - libslp-db-util
-- libslp-lbsplugin-replay
+- libslp-lbs-plugin-replay
 - libslp-location
 - libslp-memo
 - libslp-pm
@@ -258,6 +270,7 @@ Packages:
 - libss-client
 - libsvi
 - libswscale
+- libtbm
 - libtcore
 - libtheora
 - libtiff
@@ -301,6 +314,7 @@ Packages:
 - libXv
 - libXxf86dga
 - libXxf86vm
+- livebox.web-provider
 - location-geoclue-nominatim
 - location-gps-manager
 - lsb
@@ -323,11 +337,13 @@ Packages:
 - nfc-common-lib
 - nfc-manager
 - notification
+- oma-ds-agent
 - openal-soft
 - opencore-amr
 - opengl-es
 - openssh-client
 - openssh-server
+- org.tizen.data-provider-slave
 - pam-modules-extra
 - pciutils
 - pcre
@@ -350,7 +366,6 @@ Packages:
 - push-bin
 - push-tool
 - python-base
-- python-xml
 - qpdf
 - ragel
 - readline
@@ -381,6 +396,7 @@ Packages:
 - strace
 - stt
 - svi-data-sdk
+- sync-agent
 - sys-assert
 - sysman
 - syspopup
@@ -388,7 +404,6 @@ Packages:
 - sys-string
 - systemd
 - systemd-bootmode
-- systemd-console-ttySAC2
 - system-popup
 - system-server
 - sysvinit
@@ -410,6 +425,7 @@ Packages:
 - ug-memo-efl
 - ug-myfile-efl
 - ug-nfc-efl
+- ug-setting-crash-efl
 - ug-setting-gallery-efl
 - ug-setting-location-efl
 - ug-setting-manage-applications-efl
@@ -449,6 +465,7 @@ Packages:
 - xorg-x11-drv-evdev-multitouch
 - xorg-x11-drv-gesture
 - xorg-x11-font-utils
+- xorg-x11-module-xdbg
 - xorg-x11-server-common
 - xorg-x11-server-utils
 - xorg-x11-server-Xorg

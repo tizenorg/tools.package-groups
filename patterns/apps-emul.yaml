@@ -6,4 +6,5 @@ Packages:
 - org.tizen.email
 - org.tizen.memo
 - org.tizen.message
+- org.tizen.phone
 Summary: Emulator Applications

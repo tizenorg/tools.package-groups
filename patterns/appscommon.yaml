@@ -1,7 +1,7 @@
 Description: Common Applications
 Name: appscommon
 Packages:
-- apps.Internet
+- apps.Installer
 - org.tizen.app-selector
 - org.tizen.bluetooth-share-ui
 - org.tizen.bt-syspopup
@@ -16,7 +16,6 @@ Packages:
 - org.tizen.pwlock
 - org.tizen.quickpanel
 - org.tizen.setting
-- org.tizen.smartsearch
 - org.tizen.taskmgr
 - org.tizen.tickernoti-syspopup
 - org.tizen.usb-syspopup

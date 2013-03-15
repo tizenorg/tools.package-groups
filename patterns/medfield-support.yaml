@@ -10,6 +10,5 @@ Packages:
 - device-manager-plugin-mfld-blackbay
 - psb-video-mfld
 - zypper
-- tel-plugin-imc
-- tel-plugin-mfld-blackbay
+- libmfldadvci-blackbay-bin
 Summary: Medfield Support
