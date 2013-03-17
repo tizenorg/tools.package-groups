@@ -6,7 +6,6 @@ Packages:
 - bluetooth-tools
 - default-files-tizen
 - e17-misc
-- edje_multisense_plugin
 - libbluetooth-share
 - libflac
 - libremix

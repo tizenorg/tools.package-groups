@@ -9,7 +9,6 @@ Packages:
 - default-files-tizen
 - device-manager-plugin-exynos
 - e17-misc
-- edje_multisense_plugin
 - gst-plugins-e4x12
 - libbluetooth-share
 - libdrm-slp-gem
