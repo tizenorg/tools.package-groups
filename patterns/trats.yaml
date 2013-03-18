@@ -21,8 +21,11 @@ Packages:
 - nfc-plugin-nxp
 - obexd
 - opengl-es-virtual-drv
+- org.tizen.mobileprint
 - pango
 - pixman
+- print-service
+- print-driver-data
 - rfkill
 - sensor-plugins
 - system-plugin-slp
