@@ -16,6 +16,7 @@ Packages:
 - apps.Messages
 - apps.MusicPlayer
 - apps.MyFiles
+- apps.Phone
 - apps.Settings
 - apps.VideoPlayer
 Summary: Tizen Native Reference Applications 
