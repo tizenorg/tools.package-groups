@@ -5,6 +5,7 @@ Packages:
 - apps.Calculator
 - apps.Calendar
 - apps.CalendarService
+- apps.Call
 - apps.Camera
 - apps.Clock
 - apps.Contacts
