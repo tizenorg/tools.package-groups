@@ -9,6 +9,7 @@ Packages:
 - device-manager-plugin-exynos
 - e17-misc
 - gst-plugins-e4x12
+- gst-plugins-fimcconvert
 - libbluetooth-share
 - libdrm-slp-gem
 - libflac
