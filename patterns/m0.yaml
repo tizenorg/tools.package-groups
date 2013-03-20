@@ -16,7 +16,7 @@ Packages:
 - libomxil-e4x12
 - libremix
 - libtbm-exynos4412
-- mfc-firmware
+- mfc-firmware-e4412
 - mmfw-sysconf-cleansdk-e4x12
 - mobileap-agent
 - net.wifi-qs
