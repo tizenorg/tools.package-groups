@@ -2,6 +2,7 @@ Description: emul
 Name: emul
 Packages:
 - alsa-scenario-scn-data-0-mc1n2
+- alsa-scenario-scn-data-0-emul
 - boost-filesystem
 - boost-system
 - boost-test
@@ -10,7 +11,6 @@ Packages:
 - capi-uix-face
 - check
 - dbus-devel
-- default-files-emulator
 - device-manager-plugin-maru
 - e17-misc
 - eglibc-debuginfo
@@ -44,6 +44,7 @@ Packages:
 - sf-plugin-proxi-emul
 - simulator-opengl
 - sqlite
+- system-plugin-emulator
 - tel-plugin-atmodem
 - tel-plugin-vmodem
 - vmodemd-emul

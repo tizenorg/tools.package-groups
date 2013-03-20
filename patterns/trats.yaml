@@ -6,7 +6,6 @@ Packages:
 - bluetooth-share
 - bluetooth-tools
 - charging-animation
-- default-files-tizen
 - device-manager-plugin-exynos
 - e17-misc
 - gst-plugins-s5pc2xx

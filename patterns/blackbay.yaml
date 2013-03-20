@@ -4,7 +4,6 @@ Packages:
 - alsa-scenario-scn-data-0-mc1n2
 - bluetooth-share
 - bluetooth-tools
-- default-files-tizen
 - e17-misc
 - libbluetooth-share
 - libflac

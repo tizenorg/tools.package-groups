@@ -72,6 +72,7 @@ Packages:
 - dbus
 - dbus-glib
 - dbus-libs
+- default-files-tizen
 - default-fonts-fc-sdk
 - default-fonts-sdk
 - diffutils

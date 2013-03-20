@@ -127,7 +127,6 @@ Packages:
     - dbus
     - dbus-libs
     - dbus-glib
-    - default-files-tizen
     - default-fonts-fc-sdk
     - default-fonts-sdk
     - desktop-file-utils
