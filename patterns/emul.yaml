@@ -1,7 +1,6 @@
 Description: emul
 Name: emul
 Packages:
-- alsa-scenario-scn-data-0-mc1n2
 - alsa-scenario-scn-data-0-emul
 - boost-filesystem
 - boost-system
