@@ -5,6 +5,7 @@ Packages:
 - osp-app-controls
 - osp-app-service
 - osp-appfw
+- osp-appwidget-service
 - osp-bluetooth
 - osp-channel-service
 - osp-common-service
@@ -18,7 +19,6 @@ Packages:
 - osp-ime
 - osp-installer
 - osp-json
-- osp-livebox-service
 - osp-loader
 - osp-locations
 - osp-media
