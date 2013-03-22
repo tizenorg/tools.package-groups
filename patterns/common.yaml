@@ -373,6 +373,7 @@ Packages:
 - rpm
 - rpm-installer
 - rpm-libs
+- rpm-security-plugin
 - sdbd
 - security-server
 - sed
