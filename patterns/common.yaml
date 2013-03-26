@@ -427,6 +427,7 @@ Packages:
 - ug-myfile-efl
 - ug-nfc-efl
 - ug-setting-gallery-efl
+- ug-setting-homescreen-efl
 - ug-setting-location-efl
 - ug-setting-manage-applications-efl
 - ug-share-nfc-efl
