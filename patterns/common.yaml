@@ -411,6 +411,7 @@ Packages:
 - sysvinit-utils
 - tar
 - telephony-daemon
+- tel-plugin-at_standard
 - tel-plugin-database
 - tel-plugin-dbus_tapi
 - tel-plugin-packetservice
