@@ -13,8 +13,10 @@ Packages:
 - libbluetooth-share
 - libdrm-slp-gem
 - libflac
+- libomxil-s5pc2xx
 - libremix
 - libtbm-exynos4412
+- mfc-firmware-e4412
 - mmfw-sysconf-cleansdk-target
 - mobileap-agent
 - net.wifi-qs
