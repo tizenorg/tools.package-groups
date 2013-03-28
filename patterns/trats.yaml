@@ -2,7 +2,7 @@ Description: trats
 Name: trats
 Packages:
 - alsa-scenario-scn-data-0-mc1n2
-- bluetooth-firmware-bcm
+- bluetooth-firmware-bcm-c210
 - bluetooth-share
 - bluetooth-tools
 - charging-animation
