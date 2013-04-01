@@ -195,7 +195,6 @@ Packages:
 - libdmx
 - libdri2
 - libdrm2
-- libdrm-slp1
 - libexif
 - libface-engine
 - libfile
