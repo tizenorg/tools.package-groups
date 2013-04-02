@@ -10,7 +10,6 @@ Packages:
 - libremix
 - mobileap-agent
 - net.wifi-qs
-- nfc-plugin-nxp
 - obexd
 - pango
 - pixman
