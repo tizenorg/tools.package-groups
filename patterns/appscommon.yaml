@@ -17,7 +17,6 @@ Packages:
 - org.tizen.quickpanel
 - org.tizen.setting
 - org.tizen.taskmgr
-- org.tizen.tickernoti-syspopup
 - org.tizen.usb-syspopup
 - org.tizen.volume
 - org.tizen.wifi-direct-popup
