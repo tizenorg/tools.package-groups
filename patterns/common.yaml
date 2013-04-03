@@ -83,6 +83,8 @@ Packages:
 - download-provider
 - drm-client
 - drm-service-core-intel 
+- dynamic-analysis-manager
+- dynamic-analysis-probe
 - ds-public-plugins
 - e17
 - e17-data
@@ -343,6 +345,7 @@ Packages:
 - opengl-es
 - openssh-client
 - openssh-server
+- oprofile
 - org.tizen.data-provider-slave
 - pam-modules-extra
 - pciutils
