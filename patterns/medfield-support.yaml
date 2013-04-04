@@ -6,6 +6,7 @@ Packages:
 - linux-firmware-mfld
 - system-plugin-ia-generic
 - uim
+- connman-test
 - xorg-server-configs-mfld-blackbay
 - device-manager-plugin-mfld-blackbay
 - psb-video-mfld
@@ -16,4 +17,6 @@ Packages:
 - sensor-plugins-mfld-blackbay
 - tel-plugin-imc
 - tel-plugin-mfld-blackbay
+- sound-plugin-hal-mfld-blackbay
+- pulseaudio-modules-mfld-blackbay
 Summary: Medfield Support
