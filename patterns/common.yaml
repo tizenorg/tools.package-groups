@@ -430,6 +430,7 @@ Packages:
 - udev
 - ug-camera-efl
 - ug-image-viewer-efl
+- ug-isfsetting-efl
 - ug-memo-efl
 - ug-myfile-efl
 - ug-nfc-efl
