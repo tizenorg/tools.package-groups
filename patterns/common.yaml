@@ -105,9 +105,11 @@ Packages:
 - ecore-x
 - edbus
 - edje
+- edje_multisense_plugin
 - edje-tools
 - eet
 - eet-tools
+- efl-assist
 - efl-theme-tizen-hd
 - efreet
 - eglibc
