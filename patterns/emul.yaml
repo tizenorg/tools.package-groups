@@ -24,6 +24,7 @@ Packages:
 - minicontrol
 - mmfw-sysconf-simulator
 - nfc-plugin-emul
+- opengl-es-virtual-drv
 - sensord
 - sf-plugin-accel-emul
 - sf-plugin-filter-accel-emul
