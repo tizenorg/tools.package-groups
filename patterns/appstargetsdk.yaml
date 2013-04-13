@@ -1,8 +1,6 @@
 Description: Applications for Reference target
 Name: appstargetsdk
 Packages:
-- libug-calendar-efl
-- libug-phone-efl
 - org.tizen.browser
 - org.tizen.calculator
 - org.tizen.calendar
