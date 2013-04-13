@@ -24,7 +24,6 @@ Packages:
 - avsystem
 - badge
 - bash
-- binutils
 - bluetooth-agent
 - bluetooth-frwk
 - bluetooth-frwk-core

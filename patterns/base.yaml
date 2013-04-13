@@ -4,7 +4,6 @@ Packages:
 - alsa-utils
 - audio-session-manager
 - bash
-- binutils
 - bluetooth-frwk
 - bluetooth-frwk-agent
 - bluez
