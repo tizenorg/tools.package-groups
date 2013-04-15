@@ -1,0 +1,5 @@
+Description: m0-ref
+Name: m0-ref
+Packages:
+- osp-sys-config-ref
+Summary: m0-ref
