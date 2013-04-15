@@ -3,5 +3,4 @@ Name: apps-emul
 Packages:
 - org.tizen.clock
 - org.tizen.email
-- org.tizen.message
 Summary: Emulator Applications
