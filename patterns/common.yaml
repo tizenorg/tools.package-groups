@@ -360,6 +360,7 @@ Packages:
 - poppler-tools
 - power-manager
 - prelink
+- privilege-checker
 - psmisc
 - pulseaudio
 - pulseaudio-libs
