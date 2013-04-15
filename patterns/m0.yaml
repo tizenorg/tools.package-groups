@@ -25,6 +25,7 @@ Packages:
 - obexd
 - opengl-es-virtual-drv
 - org.tizen.mobileprint
+- osp-sys-config-ref
 - pango
 - pixman
 - print-service
