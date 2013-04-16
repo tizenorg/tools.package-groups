@@ -421,6 +421,7 @@ Packages:
 - tel-plugin-packetservice
 - tel-plugin-vconf
 - texinfo
+- tizenprv00.privacy-popup
 - tizen-coreutils
 - tizen-mobile-session
 - tizen-release
