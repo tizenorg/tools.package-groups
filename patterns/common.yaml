@@ -453,6 +453,7 @@ Packages:
 - web-ui-fw
 - web-ui-fw-theme-default
 - web-ui-fw-theme-tizen-white
+- web-ui-fw-theme-tizen-black
 - which
 - wifi-direct-manager
 - wifi-direct-plugin-wpasupplicant
