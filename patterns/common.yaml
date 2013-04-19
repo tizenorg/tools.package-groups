@@ -339,6 +339,7 @@ Packages:
 - nfc-common-lib
 - nfc-manager
 - notification
+- oma-dm-agent
 - oma-ds-agent
 - openal-soft
 - opencore-amr
