@@ -17,6 +17,4 @@ Packages:
 - sensor-plugins-mfld-blackbay
 - tel-plugin-imc
 - tel-plugin-mfld-blackbay
-- sound-plugin-hal-mfld-blackbay
-- pulseaudio-modules-mfld-blackbay
 Summary: Medfield Support
