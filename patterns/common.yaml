@@ -76,6 +76,8 @@ Packages:
 - default-fonts-sdk
 - diffutils
 - dlogutil
+- dm-private-plugins
+- dm-public-plugins
 - dnsmasq
 - dos2unix
 - dosfstools
