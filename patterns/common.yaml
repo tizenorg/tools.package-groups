@@ -294,7 +294,6 @@ Packages:
 - libXau
 - libXaw
 - libxcb
-- libxcb-devel
 - libXcomposite
 - libXcursor
 - libXdamage
@@ -467,7 +466,6 @@ Packages:
 - wrt-plugins-common
 - wrt-plugins-tizen
 - wrt-setting
-- xcb-util-devel
 - xdgmime
 - xkb-data
 - xkeyboard-config
