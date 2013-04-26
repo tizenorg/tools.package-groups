@@ -75,6 +75,8 @@ Packages:
 - default-fonts-sdk
 - diffutils
 - dlogutil
+- dm-private-plugins
+- dm-public-plugins
 - dnsmasq
 - dos2unix
 - dosfstools
@@ -291,7 +293,6 @@ Packages:
 - libXau
 - libXaw
 - libxcb
-- libxcb-devel
 - libXcomposite
 - libXcursor
 - libXdamage
@@ -306,7 +307,6 @@ Packages:
 - libxkbfile
 - libXmu
 - libXpm
-- libXpm-devel
 - libXrandr
 - libXrender
 - libXres
@@ -464,7 +464,6 @@ Packages:
 - wrt-plugins-common
 - wrt-plugins-tizen
 - wrt-setting
-- xcb-util-devel
 - xdgmime
 - xkb-data
 - xkeyboard-config
@@ -475,17 +474,14 @@ Packages:
 - xorg-x11-drv-evdev
 - xorg-x11-drv-evdev-multitouch
 - xorg-x11-drv-gesture
-- xorg-x11-font-utils
 - xorg-x11-module-xdbg
 - xorg-x11-server-common
 - xorg-x11-server-utils
 - xorg-x11-server-Xorg
 - xorg-x11-utils
-- xorg-x11-xbitmaps
 - xorg-x11-xinit
 - xorg-x11-xinput
 - xorg-x11-xkb-utils
-- xorg-x11-xtrans-devel
 - xrestop
 - xz
 - xz-libs
