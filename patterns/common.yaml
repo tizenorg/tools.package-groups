@@ -33,7 +33,6 @@ Packages:
 - boost-program-options
 - boost-thread
 - boot-animation
-- browser-provider
 - bundle
 - busybox
 - busybox-symlinks-busybox
