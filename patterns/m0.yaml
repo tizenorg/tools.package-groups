@@ -41,4 +41,5 @@ Packages:
 - wpasupplicant
 - xorg-x11-drv-exynos
 - xorg-x11-misc-exynos
+- wlandrv-plugin-tizen2.1-bcm43xx-TDC
 Summary: m0
