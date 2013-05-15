@@ -428,7 +428,6 @@ Packages:
 - tizen-release
 - tts
 - udev
-- ug-camera-efl
 - ug-image-viewer-efl
 - ug-isfsetting-efl
 - ug-memo-efl
