@@ -119,6 +119,7 @@ Packages:
 - elfutils-libelf
 - elfutils-libs
 - elm-misc
+- elm-modules
 - email-service
 - embryo
 - emotion
