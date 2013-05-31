@@ -1,5 +1,5 @@
-Description: Tizen API
-Name: tizen-api
+Description: Core APIs
+Name: capi
 Packages:
 - capi-appfw-app-manager
 - capi-appfw-application
@@ -27,4 +27,4 @@ Packages:
 - capi-telephony-network-info
 - capi-telephony-sim
 - capi-ui-efl-util
-Summary: Tizen APIs
+Summary: Core APIs

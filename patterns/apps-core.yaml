@@ -1,5 +1,5 @@
-Description: Applications for Reference target
-Name: appstargetsdk
+Description: Core Applications 
+Name: apps-core
 Packages:
 - libug-calendar-efl
 - libug-phone-efl
@@ -23,4 +23,4 @@ Packages:
 - org.tizen.smartsearch
 - org.tizen.video-player
 - ug-camera-efl
-Summary: Applications for Reference target
+Summary: Core Applications for preloading

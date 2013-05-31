@@ -1,7 +1,6 @@
-Description: blackbay
-Name: blackbay
+Description: Common packages for target
+Name: target-common
 Packages:
-- alsa-scenario-scn-data-0-mc1n2
 - bluetooth-share
 - bluetooth-tools
 - e17-misc
@@ -14,13 +13,8 @@ Packages:
 - obexd
 - pango
 - pixman
-- rfkill
 - ug-bluetooth-efl
 - ug-setting-mobileap-efl
 - wifi-efl-ug
 - wpasupplicant
-- attr
-- acl
-- lsof
-- perl
-Summary: blackbay
+Summary: Common packages for target

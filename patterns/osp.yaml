@@ -1,4 +1,4 @@
-Description: Tizen C++ Framework
+Description: Tizen Native Framework
 Name: osp
 Packages:
 - chromium
@@ -34,4 +34,4 @@ Packages:
 - osp-uix
 - osp-web
 - osp-vision
-Summary: Tizen C++ Framework
+Summary: Tizen Native Framework

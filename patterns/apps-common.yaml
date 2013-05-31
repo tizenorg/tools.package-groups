@@ -1,5 +1,5 @@
 Description: Common Applications
-Name: appscommon
+Name: apps-common
 Packages:
 - apps.Installer
 - org.tizen.app-selector
