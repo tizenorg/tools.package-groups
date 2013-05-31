@@ -5,6 +5,7 @@ Packages:
 - bluetooth-share
 - bluetooth-tools
 - e17-misc
+- eglibc-debugframe
 - libbluetooth-share
 - libflac
 - libremix

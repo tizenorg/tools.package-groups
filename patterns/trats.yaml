@@ -8,6 +8,7 @@ Packages:
 - charging-animation
 - device-manager-plugin-exynos
 - e17-misc
+- eglibc-debugframe
 - gst-plugins-s5pc2xx
 - gst-plugins-fimcconvert
 - libbluetooth-share

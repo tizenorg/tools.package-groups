@@ -112,7 +112,6 @@ Packages:
 - efreet
 - eglibc
 - eglibc-common
-- eglibc-debugframe
 - eina
 - elementary
 - elementary-tools
