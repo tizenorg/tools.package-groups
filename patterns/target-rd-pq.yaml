@@ -11,6 +11,7 @@ Packages:
 - libtbm-exynos4412
 - mfc-firmware-e4412
 - mmfw-sysconf-cleansdk-e4x12
+- model-config-rd-pq
 - my-account
 - nfc-plugin-65nxp
 - nfc-plugin-nxp

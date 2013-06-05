@@ -11,6 +11,7 @@ Packages:
 - libtbm-exynos4412
 - mfc-firmware-e4412
 - mmfw-sysconf-cleansdk-target
+- model-config-rd-210
 - my-account
 - nfc-plugin-nxp
 - opengl-es-virtual-drv

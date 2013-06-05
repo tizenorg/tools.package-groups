@@ -23,6 +23,7 @@ Packages:
 - libxml2
 - minicontrol
 - mmfw-sysconf-simulator
+- model-config-emulator
 - nfc-plugin-emul
 - opengl-es-virtual-drv
 - sensord
