@@ -362,6 +362,7 @@ Packages:
 - poppler-tools
 - power-manager
 - prelink
+- privacy-popup
 - privilege-checker
 - psmisc
 - pulseaudio
