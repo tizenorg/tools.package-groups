@@ -404,7 +404,6 @@ Packages:
 - starter
 - strace
 - stt
-- svi-data-sdk
 - sync-agent
 - sys-assert
 - sysman
