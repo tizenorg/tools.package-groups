@@ -363,7 +363,7 @@ Packages:
 - poppler-tools
 - power-manager
 - prelink
-- tizenprv00.privacy-popup
+- privacy-popup
 - privilege-checker
 - psmisc
 - pulseaudio
