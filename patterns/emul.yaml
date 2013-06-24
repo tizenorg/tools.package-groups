@@ -17,6 +17,7 @@ Packages:
 - glib2
 - gnutls
 - gst-ffmpeg-emul
+- gst-plugins-emulator
 - harfbuzz
 - libbluetooth-share
 - libdlog-devel

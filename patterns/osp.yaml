@@ -25,6 +25,7 @@ Packages:
 - osp-messaging
 - osp-net
 - osp-nfc
+- osp-secure-element
 - osp-security-service
 - osp-shell
 - osp-social
