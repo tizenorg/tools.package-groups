@@ -23,4 +23,8 @@ Packages:
 - org.tizen.smartsearch
 - org.tizen.video-player
 - ug-camera-efl
+- ug-image-viewer-efl
+- ug-memo-efl
+- ug-music-player-efl
+- ug-myfile-efl
 Summary: Core Applications for preloading
