@@ -2,8 +2,6 @@ Description: Tizen Native Framework
 Name: osp
 Packages:
 - chromium
-- dynamic-analysis-manager
-- dynamic-analysis-probe
 - osp-app-controls
 - osp-app-service
 - osp-appfw
