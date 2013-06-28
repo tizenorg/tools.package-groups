@@ -12,6 +12,7 @@ Packages:
 - apps.Email
 - apps.Gallery
 - apps.ImageViewer
+- apps.Installer
 - apps.Internet
 - apps.Memo
 - apps.Messages

@@ -1,7 +1,6 @@
 Description: Common Applications
 Name: apps-common
 Packages:
-- apps.Installer
 - org.tizen.app-selector
 - org.tizen.bluetooth-share-ui
 - org.tizen.bt-syspopup

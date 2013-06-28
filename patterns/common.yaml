@@ -82,8 +82,6 @@ Packages:
 - dosfstools
 - download-provider
 - drm-client
-- dynamic-analysis-manager
-- dynamic-analysis-probe
 - ds-public-plugins
 - e17
 - e17-data
