@@ -13,6 +13,8 @@ Packages:
 - obexd
 - pango
 - pixman
+- smartcard-plugin-nfc
+- smartcard-plugin-uicc
 - ug-bluetooth-efl
 - ug-setting-mobileap-efl
 - wifi-efl-ug

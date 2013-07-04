@@ -391,8 +391,6 @@ Packages:
 - sharutils
 - smack
 - smack-utils
-- smartcard-plugin-nfc
-- smartcard-plugin-uicc
 - smartcard-service
 - smartcard-service-common
 - smartcard-service-server
