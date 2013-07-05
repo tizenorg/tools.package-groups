@@ -82,6 +82,7 @@ Packages:
 - dosfstools
 - download-provider
 - drm-client
+- drm-service-core-tizen
 - dynamic-analysis-manager
 - dynamic-analysis-probe
 - ds-public-plugins
