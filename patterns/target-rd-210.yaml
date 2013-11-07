@@ -17,6 +17,7 @@ Packages:
 - opengl-es-virtual-drv
 - org.tizen.mobileprint
 - osp-sys-config-ref
+- powertop
 - print-service
 - print-driver-data
 - rfkill
@@ -27,5 +28,4 @@ Packages:
 - tel-plugin-imcmodem
 - xorg-x11-drv-exynos
 - xorg-x11-misc-exynos
-- wlandrv-plugin-tizen2.1-bcm43xx
 Summary: Packages for RD-210 target

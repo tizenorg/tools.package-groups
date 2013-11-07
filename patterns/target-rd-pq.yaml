@@ -17,8 +17,10 @@ Packages:
 - nfc-plugin-nxp
 - opengl-es-virtual-drv
 - org.tizen.mobileprint
+- powertop
 - print-service
 - print-driver-data
+- pygobject
 - rfkill
 - sensor-plugins
 - system-plugin-slp
@@ -27,5 +29,4 @@ Packages:
 - tel-plugin-imcmodem
 - xorg-x11-drv-exynos
 - xorg-x11-misc-exynos
-- wlandrv-plugin-tizen2.1-bcm43xx
 Summary: Packages for RD-PQ
