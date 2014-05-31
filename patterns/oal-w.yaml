@@ -1,0 +1,25 @@
+Name: oal-w
+Summary: OAL w
+Description: OEM Adaptation Layer for wearable
+
+Packages:
+- alsa-scenario-scn-data-0-ymu831-B2
+- audio-hal-e3250
+- avsystem-ymu831
+- bluetooth-firmware-bcm-e4412
+- board-config-data-B2
+- device-manager-plugin-e3250
+- e17-misc
+- gst-plugins-camera-e3250
+- libasound
+- libcamsrcjpegenc-hw-e3250
+- libcamsrcjpegenc-sw-libjpeg
+- libomxil-e3250-v4l2
+- libtbm-exynos4412
+- mfc-firmware-e3250
+- mmfw-sysconf-e3250
+- system-plugin-exynos
+- xorg-x11-drv-exynos
+- xorg-x11-drv-gesture
+- xorg-x11-misc-exynos
+- model-config-wearable

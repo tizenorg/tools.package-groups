@@ -1,0 +1,8 @@
+Name: apps-base-w
+Summary: Base Applications
+Description: Base application packages
+Packages:
+- org.tizen.app-selector
+- org.tizen.lowbat-syspopup
+- org.tizen.lowmem-syspopup
+- org.tizen.poweroff-syspopup

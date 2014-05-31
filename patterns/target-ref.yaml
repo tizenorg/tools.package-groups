@@ -1,0 +1,5 @@
+Description: Configuration packages for preloaded reference applications in target
+Name: target-ref
+Packages:
+- osp-sys-config-ref
+Summary: Configuration packages for preloaded reference applications in target

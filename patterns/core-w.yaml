@@ -1,0 +1,15 @@
+Name: core-w
+Summary: SLP Platform Core
+Description: Platform core packages
+Packages:
+- bash3
+- eglibc
+- filesystem
+- rpm
+- rpm-security-plugin
+- setup
+- systemd
+- tizen-coreutils
+- tizen-release
+- tzdata
+- util-linux

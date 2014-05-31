@@ -1,0 +1,25 @@
+Description: Common Applications
+Name: apps-common
+Packages:
+- apps.Installer
+- org.tizen.app-selector
+- org.tizen.bluetooth-share-ui
+- org.tizen.bt-syspopup
+- org.tizen.crash-popup
+- org.tizen.download-manager
+- org.tizen.indicator
+- org.tizen.lockscreen
+- org.tizen.lowbat-syspopup
+- org.tizen.lowmem-syspopup
+- org.tizen.menu-screen
+- org.tizen.poweroff-syspopup
+- org.tizen.pwlock
+- org.tizen.quickpanel
+- org.tizen.setting
+- org.tizen.taskmgr
+- org.tizen.usb-syspopup
+- org.tizen.volume
+- org.tizen.wifi-direct-popup
+- org.tizen.wifi-direct-ugapp
+- ug-gallery-efl
+Summary: Common Applications

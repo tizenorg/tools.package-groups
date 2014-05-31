@@ -1,0 +1,9 @@
+Name: eng-tools-w
+Summary: enf-tools for wearable
+Description: eng-tools Packages. Not Included In Product Image.
+Packages:
+- busybox
+- gdb
+- gdb-server
+- openssh-client
+- tizen-debug

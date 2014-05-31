@@ -1,0 +1,22 @@
+Description: Medfield Support
+Name: medfield-support
+Packages:
+- device-configs-mfld-blackbay
+- kernel-mfld-blackbay
+- linux-firmware-mfld
+- system-plugin-ia-generic
+- uim
+- connman-test
+- xorg-server-configs-mfld-blackbay
+- device-manager-plugin-mfld-blackbay
+- psb-video-mfld
+- gstreamer-vaapi
+- gst-plugins-atomisp
+- zypper
+- libmfldadvci-blackbay-bin
+- sensor-plugins-mfld-blackbay
+- tel-plugin-imc
+- tel-plugin-mfld-blackbay
+- sound-plugin-hal-mfld-blackbay
+- pulseaudio-modules-mfld-blackbay
+Summary: Medfield Support

@@ -1,0 +1,22 @@
+Description: Common packages for target
+Name: target-common
+Packages:
+- bluetooth-share
+- bluetooth-tools
+- e17-misc
+#- eglibc-debugframe
+- libbluetooth-share
+- libflac
+- libremix
+- mobileap-agent
+- net.wifi-qs
+- obexd
+- pango
+- pixman
+- smartcard-plugin-nfc
+- smartcard-plugin-uicc
+- ug-bluetooth-efl
+- ug-setting-mobileap-efl
+- wifi-efl-ug
+- wpasupplicant
+Summary: Common packages for target

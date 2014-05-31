@@ -1,0 +1,31 @@
+Description: Packages for RD-210 target
+Name: target-rd-210
+Packages:
+- alsa-scenario-scn-data-0-mc1n2
+- bluetooth-firmware-bcm-c210
+- charging-animation
+- device-manager-plugin-exynos
+- gst-plugins-s5pc2xx
+- gst-plugins-fimcconvert
+- libomxil-s5pc2xx
+- libtbm-exynos4412
+- mfc-firmware-e4412
+- mmfw-sysconf-cleansdk-target
+- model-config-rd-210
+- my-account
+- nfc-plugin-nxp
+- opengl-es-virtual-drv
+- org.tizen.mobileprint
+- osp-sys-config-ref
+- powertop
+- print-service
+- print-driver-data
+- rfkill
+- sensor-plugins
+- system-plugin-slp
+- systemd-console-ttySAC2
+- tel-plugin-imc
+- tel-plugin-imcmodem
+- xorg-x11-drv-exynos
+- xorg-x11-misc-exynos
+Summary: Packages for RD-210 target
