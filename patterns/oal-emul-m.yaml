@@ -1,0 +1,6 @@
+Name: oal-emul-m
+Summary: OAL EMULATOR for mobile
+Description: OEM Adaptation Layer for EMUALTOR
+Packages:
+- alsa-lib-1.0.25
+- device-manager-plugin-emul

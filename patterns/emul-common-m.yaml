@@ -1,0 +1,41 @@
+Name: emul-common-m
+Summary: Tizen Platform System (Emulator)
+Description: Platform common packages for Emulator
+Packages:
+- anthy
+- alsa-scenario-scn-data-0-emul
+- bluetooth-frwk-service
+- bluetooth-tools
+- e17-misc-mobile
+- emulator-yagl
+- emuld
+- gst-plugins-emulator
+- ise-default
+- ise-engine-anthy
+- ise-engine-default
+- ise-engine-hangul
+- ise-engine-sunpinyin
+- ise-engine-tables
+- ise-engine-tables-zh
+- ise-web-helper-agent
+- kmod
+- launchpad
+- libgomp
+- libhangul
+- libscl-ui
+- libtbm-emulator
+- libusb
+- libwebsockets
+- nfc-plugin-emul
+- mmfw-sysconf-simulator
+- msg-service-tools
+- opengl-es
+- rfkill
+- system-plugin-emulator
+- tel-plugin-atmodem
+- tel-plugin-vmodem
+- tizen-locale
+- vmodemd-emul
+- xorg-x11-drv-vigs
+- xorg-x11-misc-emulfb
+- zip

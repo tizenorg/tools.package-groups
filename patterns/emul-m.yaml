@@ -1,0 +1,26 @@
+Name: emul-m
+Summary: EMULATOR
+Description: Packages for EMULATOR
+Packages:
+- account-parser
+- audio-hal-emul
+- glib-networking
+- gmp
+- gnutls
+- model-config-emulator
+- nettle
+- org.tizen.calendar-notification
+- org.tizen.data-provider-slave
+- org.tizen.download-manager
+- org.tizen.indicator
+- org.tizen.installer
+- org.tizen.lockscreen-lite
+- org.tizen.quickpanel-lite
+- org.tizen.setting
+- org.tizen.setting-location
+- org.tizen.task-mgr
+- speex-tools
+- swap-manager
+- swap-modules
+- swap-probe
+- unzip

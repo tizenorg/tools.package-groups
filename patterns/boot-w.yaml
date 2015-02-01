@@ -1,0 +1,5 @@
+Name: boot-w
+Summary: Wearable Boot
+Description: Boot for Wearable
+Packages:
+- linux-3.4-exynos3250_tizen_b2

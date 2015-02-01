@@ -1,15 +1,13 @@
-Name: core-w
-Summary: SLP Platform Core
+Name: core-m
+Summary: Tizen Platform Core
 Description: Platform core packages
 Packages:
-- bash3
+- bash
 - eglibc
 - filesystem
-- rpm
 - rpm-security-plugin
 - setup
 - systemd
 - tizen-coreutils
 - tizen-release
 - tzdata
-- util-linux
