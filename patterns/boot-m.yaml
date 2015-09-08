@@ -1,0 +1,7 @@
+Name: boot-m
+Summary: Mobile Boot
+Description: Boot for Mobile
+Packages:
+- u-boot-trats2
+- arm-trats2-linux-kernel
+- arm-trats2-linux-kernel-modules

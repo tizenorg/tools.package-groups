@@ -1,0 +1,5 @@
+Name: boot-debug-m
+Summary: Boot Debug group for Mobile
+Description: Packages for Mobile Boot Debug
+Packages:
+- arm-trats2-linux-kernel-debug

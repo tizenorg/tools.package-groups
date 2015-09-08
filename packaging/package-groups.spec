@@ -1,22 +1,24 @@
-Summary:	SLP Package Groups
+Summary:	Tizen Package Groups
 Name:		package-groups
-Version:	0.36
-Release:	2
+Version:	42
+Release:	1
 License:	GPLv2
 Group:		System/Base
 URL:		http://www.tizen.org
-Source:		%{name}-%{version}.tar.gz
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
-BuildRequires:  libxslt
-
+Source:		%{name}-%{version}.tar.bz2
+Source1001: packaging/package-groups.manifest 
+BuildRequires: libxslt
+BuildRequires: python-yaml
+BuildRequires: python-lxml
 
 %description
-SLP Package Groups
+Tizen Package Groups
 
 %prep
 %setup -q
 
 %build
+cp %{SOURCE1001} .
 %ifarch %{arm}
 make ARCH=arm
 %else
@@ -26,9 +28,7 @@ make ARCH=i586
 %install
 %make_install
 
-%clean
-rm -rf %{buildroot}
-
 %files
+%manifest package-groups.manifest
 /usr/share/package-groups/*xml
 

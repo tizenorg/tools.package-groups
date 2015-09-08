@@ -1,0 +1,18 @@
+Name: apps-common-m
+Summary: Common Applications
+Description: Common application packages
+Packages:
+- org.tizen.app-selector
+- org.tizen.bt-syspopup
+- org.tizen.usb-syspopup
+- org.tizen.usbotg-syspopup
+- my-account
+
+# Following below (Tentative)
+- dosfstools
+- e2fsprogs
+- e2fsprogs-libs
+- gzip
+- net-tools
+- procps
+- tar

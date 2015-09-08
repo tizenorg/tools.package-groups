@@ -1,0 +1,6 @@
+Name: osp-m
+Summary: OSP
+Description: Packages for OSP
+Packages:
+- chromium
+- privilege-checker

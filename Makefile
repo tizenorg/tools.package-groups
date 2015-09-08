@@ -12,7 +12,11 @@ else
 endif
 
 all: 
-	sh update.sh ${ARCH}
+	python scripts/merge-patterns.py -a ${ARCH}
+	xsltproc xsl/comps.xsl patterns.xml > group.xml
+
+meta: 
+	python scripts/merge-patterns.py -a ${ARCH} -s
 
 install:
 	install -d ${DESTDIR}/usr/share/package-groups
@@ -20,16 +24,16 @@ install:
 	install -m 644 group.xml ${DESTDIR}/usr/share/package-groups
 
 tag:
-	git tag $(VERSION)
+	git tag -a $(VERSION) -m "$(VERSION)"
 	git push --tags
 
 changelog:
 	python ./scripts/gitlog2changelog.py
 
 repackage: dist
-	osc branch -c Trunk:Testing $(NAME)
-	rm home\:*\:branches\:Trunk:Testing/$(NAME)/*tar.bz2
-	cp $(NAME)-$(VERSION).tar.bz2 home\:*\:branches\:Trunk:Testing/$(NAME)
+	osc branch -c Tizen:Base $(NAME)
+	rm home\:*\:branches\:Tizen:Base/$(NAME)/*tar.bz2
+	cp $(NAME)-$(VERSION).tar.bz2 home\:*\:branches\:Tizen:Base/$(NAME)
 
 	
 
@@ -44,4 +48,4 @@ dist-gz:
 dist: dist-bz2
 
 clean:
-	rm -rf patterns.xml INDEX.xml group.xml
+	rm -rf patterns.xml INDEX.xml group.xml *.xml

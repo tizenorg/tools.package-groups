@@ -1,0 +1,5 @@
+Name: apps-sdk-priv-m
+Summary: Tizen SDK Applications
+Description: Tizen sdk application packages
+Packages:
+- org.tizen.setting

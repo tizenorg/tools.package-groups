@@ -1,0 +1,5 @@
+Name: eng-tools-m
+Summary: Tizen Engineering mode tools
+Description: Engineering mode tools packages
+Packages:
+- tizen-debug
