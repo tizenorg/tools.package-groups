@@ -8,6 +8,7 @@ URL:		http://www.tizen.org
 Source:		%{name}-%{version}.tar.bz2
 Source1001: packaging/package-groups.manifest 
 BuildRequires: libxslt
+BuildRequires: libxslt-tools
 BuildRequires: python-yaml
 BuildRequires: python-lxml
 

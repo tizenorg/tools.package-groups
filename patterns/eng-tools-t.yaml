@@ -1,6 +1,8 @@
-Name: eng-tools-m
+Name: eng-tools-t
 Summary: Tizen Engineering mode tools
 Description: Engineering mode tools packages
 Packages:
+- gdb
+- gdb-server
 - ncurses
 - tizen-debug

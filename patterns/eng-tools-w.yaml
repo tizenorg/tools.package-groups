@@ -2,4 +2,7 @@ Name: eng-tools-w
 Summary: eng-tools for Wearable
 Description: eng-tools Packages. Not Included In Product Image.
 Packages:
+- gdb
+- gdb-server
+- ncurses
 - tizen-debug

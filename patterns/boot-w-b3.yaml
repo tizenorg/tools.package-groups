@@ -1,5 +1,0 @@
-Name: boot-w-b3
-Summary: Wearable Boot
-Description: Boot for Wearable
-Packages:
-- linux-3.4-msm8x26_B3_GSM_EUR

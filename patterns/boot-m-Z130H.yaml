@@ -1,0 +1,5 @@
+Name: boot-m-Z130H
+Summary: Mobile Boot
+Description: Boot for Mobile
+Packages:
+- linux-3.10-sc7727_tizen_kiran

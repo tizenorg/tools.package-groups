@@ -1,0 +1,6 @@
+Name: boot-m-TM1
+Summary: Mobile Boot
+Description: Boot for Mobile
+Packages:
+- u-boot-tm1
+- linux-3.10-sc7730_tizen_tm1

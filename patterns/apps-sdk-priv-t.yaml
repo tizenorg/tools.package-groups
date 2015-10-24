@@ -1,0 +1,5 @@
+Name: apps-sdk-priv-t
+Summary: Tizen SDK Applications
+Description: Tizen sdk application packages
+Packages:
+- xinfo

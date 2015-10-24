@@ -1,0 +1,15 @@
+Name: hawkp-t
+Summary: Tizen TV Hawkp packages
+Description: HawkP packages for booting tizen 2.4
+Packages:
+- modules-thirdparty-BRCM
+- tztv-hawk-kmodules
+- tztv-media-hawkp
+- tztv-kfactory
+- tztv-hdmi-sw
+- tztv-jackident
+- tztv-frc-tcon
+- tztv-audio-amp
+- system-plugin-hawkp
+- tztv-hawkp-binary
+- vdlinux-3.10-arm-hawkp

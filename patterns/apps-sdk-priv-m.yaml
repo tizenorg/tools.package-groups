@@ -2,4 +2,21 @@ Name: apps-sdk-priv-m
 Summary: Tizen SDK Applications
 Description: Tizen sdk application packages
 Packages:
-- org.tizen.setting
+- org.tizen.add-viewer
+- org.tizen.browser
+- org.tizen.camera-app
+- org.tizen.calendar
+- org.tizen.call-ui
+- org.tizen.contacts
+- org.tizen.email
+- org.tizen.gallery
+- org.tizen.message
+- org.tizen.music-chooser
+- org.tizen.music-player
+- org.tizen.myfile
+- org.tizen.myplace
+- org.tizen.video-player
+- org.tizen.videos
+- ug-gallery-efl
+- ug-image-viewer-efl
+- ug-myfile-efl
