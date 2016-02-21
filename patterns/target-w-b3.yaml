@@ -250,6 +250,9 @@ Packages:
 - starter
 - stt
 - svi-data
+- swap-manager
+- swap-modules
+- swap-probe
 - sys-assert
 - sys-string
 - syspopup
