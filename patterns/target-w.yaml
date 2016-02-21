@@ -232,6 +232,7 @@ Packages:
 - org.tizen.crash-popup
 - org.tizen.data-provider-slave
 - org.tizen.download-manager
+- org.tizen.heremaps-uc
 - org.tizen.idle-clock-digital
 - org.tizen.installer
 - org.tizen.lowbat-syspopup
