@@ -27,6 +27,7 @@ Packages:
 - bluetooth-share
 - bluetooth-tools
 - boot-animation
+- brcm-gps-daemon
 - ca-certificates
 - calendar-service
 - call-setting
@@ -127,8 +128,10 @@ Packages:
 - gst-libav
 - gst-plugins-bad1.0
 - gst-plugins-base1.0
+- gst-plugins-camera-sc7730s
 - gst-plugins-tizen1.0
 - gst-plugins-good1.0
+- gst-plugins-sprdcodec-sc7730
 - gst-plugins-ugly1.0
 - gst-rtsp-server
 - gstreamer1.0
@@ -165,14 +168,17 @@ Packages:
 - libgeofence-dbus
 - libmm-imgp-gstcs
 - libmm-radio
+- libmm-scmirroring-common
 - libmm-sound-tool
 - libmm-wfd
+- libnps-plugin
 - liboauth
 - libphonenumber
 - libprivilege-control-conf
 - libpush
 - libscl-common
 - libscl-core
+- libslp-lbsplugin-brcm
 - libslp-lbsplugin-replay
 - libtbm
 - libtbm-sprd7727
@@ -225,7 +231,6 @@ Packages:
 - org.tizen.datausage-syspopup
 - org.tizen.download-manager
 - org.tizen.gps-syspopup
-- org.tizen.heremaps-uc
 - org.tizen.homescreen
 - org.tizen.homescreen-efl
 - org.tizen.host-devices
@@ -286,6 +291,7 @@ Packages:
 - sms-plugin
 - speex
 - speex-tools
+- spreadtrum-utils
 - squashfs
 - ss-server
 - starter
@@ -303,8 +309,10 @@ Packages:
 - tel-plugin-database
 - tel-plugin-dbus_tapi
 - tel-plugin-indicator
+- tel-plugin-multisim_spreadtrum
 - tel-plugin-nitz
 - tel-plugin-packetservice
+- tel-plugin-spreadtrum
 - tel-plugin-vconf
 - telephony-daemon
 - tizen-coreutils

@@ -139,6 +139,7 @@ Packages:
 - libhangul
 - libhwc
 - libmm-imgp-gstcs
+- libmm-scmirroring-common
 - libmm-radio
 - libmm-wfd
 - libprivilege-control-conf
@@ -183,7 +184,6 @@ Packages:
 - org.tizen.data-provider-slave
 - org.tizen.download-manager
 - org.tizen.gps-syspopup
-- org.tizen.heremaps-uc
 - org.tizen.screen-reader
 - org.tizen.setting-location
 - org.tizen.widget_viewer_sdk

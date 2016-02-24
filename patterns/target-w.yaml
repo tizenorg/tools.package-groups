@@ -170,6 +170,7 @@ Packages:
 - libkey-manager-common
 - libmm-imgp-gstcs
 - libmm-radio
+- libmm-scmirroring-common
 - libmm-sound
 - libmm-sound-tool
 - libmm-wfd
@@ -232,7 +233,6 @@ Packages:
 - org.tizen.crash-popup
 - org.tizen.data-provider-slave
 - org.tizen.download-manager
-- org.tizen.heremaps-uc
 - org.tizen.idle-clock-digital
 - org.tizen.installer
 - org.tizen.lowbat-syspopup

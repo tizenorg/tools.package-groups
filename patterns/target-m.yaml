@@ -167,6 +167,7 @@ Packages:
 - libgeofence-dbus
 - libmm-imgp-gstcs
 - libmm-radio
+- libmm-scmirroring-common
 - libmm-sound-tool
 - libmm-wfd
 - liboauth
@@ -231,7 +232,6 @@ Packages:
 - org.tizen.datausage-syspopup
 - org.tizen.download-manager
 - org.tizen.gps-syspopup
-- org.tizen.heremaps-uc
 - org.tizen.homescreen
 - org.tizen.homescreen-efl
 - org.tizen.host-devices

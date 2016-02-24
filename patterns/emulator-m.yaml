@@ -165,6 +165,7 @@ Packages:
 - libhangul
 - libmm-imgp-gstcs
 - libmm-radio
+- libmm-scmirroring-common
 - libmm-wfd
 - liboauth
 - libphonenumber
@@ -223,7 +224,6 @@ Packages:
 - org.tizen.datausage-syspopup
 - org.tizen.download-manager
 - org.tizen.gps-syspopup
-- org.tizen.heremaps-uc
 - org.tizen.homescreen
 - org.tizen.homescreen-efl
 - org.tizen.host-devices
