@@ -216,6 +216,7 @@ Packages:
 - org.tizen.download-manager
 - org.tizen.clocksetting
 - org.tizen.crash-popup
+- org.tizen.heremaps-uc
 - org.tizen.idle-clock-digital
 - org.tizen.installer
 - org.tizen.lowbat-syspopup

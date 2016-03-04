@@ -184,6 +184,7 @@ Packages:
 - org.tizen.download-manager
 - org.tizen.elm-demo-tizen-tv
 - org.tizen.gps-syspopup
+- org.tizen.heremaps-uc
 - org.tizen.screen-reader
 - org.tizen.setting-location
 - org.tizen.widget_viewer_sdk
